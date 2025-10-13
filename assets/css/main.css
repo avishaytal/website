@@ -207,6 +207,94 @@ body {
     margin: 0 auto;
 }
 
+/* Prose (Markdown) styles - applied to the main markdown content */
+.prose {
+    color: var(--text-color);
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+.prose p {
+    margin: 0 0 1rem 0;
+}
+
+.prose img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+}
+
+.prose blockquote {
+    margin: 1rem 0;
+    padding: 1rem 1.25rem;
+    background: linear-gradient(90deg, rgba(49,130,206,0.05), rgba(26,54,93,0.02));
+    border-left: 4px solid var(--accent-color);
+    color: var(--secondary-color);
+    border-radius: 6px;
+}
+
+.prose hr {
+    border: none;
+    height: 1px;
+    background: var(--border-color);
+    margin: 2rem 0;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4 {
+    color: var(--primary-color);
+    margin-top: 1.5rem;
+}
+
+.prose ul, .prose ol {
+    margin: 0 0 1rem 1.5rem;
+}
+
+.prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    background: white;
+    box-shadow: var(--shadow);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.prose th, .prose td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+    text-align: left;
+}
+
+.prose thead th {
+    background: linear-gradient(90deg, rgba(49,130,206,0.06), rgba(26,54,93,0.03));
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.prose code {
+    background: rgba(45,55,72,0.05);
+    padding: 0.2rem 0.4rem;
+    border-radius: 6px;
+    font-size: 0.95em;
+}
+
+.prose pre {
+    background: #0b1220;
+    color: #e6eef8;
+    padding: 1rem;
+    border-radius: 8px;
+    overflow: auto;
+}
+
+.prose a {
+    color: var(--accent-color);
+    text-decoration: underline;
+}
+
+
 .text-center {
     text-align: center;
 }
