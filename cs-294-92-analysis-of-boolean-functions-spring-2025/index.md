@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs 294 92 analysis of boolean functions spring 2025"
----
-
----
-title: "Avishay Tal - CS 294-92: Analysis of Boolean Functions (Spring 2025)"
----
-
 # CS 294-92: Analysis of Boolean Functions (Spring 2025)
 
 Description:

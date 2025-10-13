@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs172 Fall24_course policies and information fall 2024"
----
-
----
-title: "Avishay Tal - Course Policies and Information (Fall 2024)"
----
-
 ## Course Policies and Information
 
 Format

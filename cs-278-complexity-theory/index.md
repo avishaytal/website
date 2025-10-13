@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs 278 complexity theory"
----
-
----
-title: "Avishay Tal - CS 278 Computational Complexity Theory"
----
-
 # **CS 278 Computational Complexity Theory**
 
 **Course Description:**

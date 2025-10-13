@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs294 analysis of boolean functions"
----
-
----
-title: "Avishay Tal - CS 294-92: Analysis of Boolean Functions"
----
-
 # CS 294-92: Analysis of Boolean Functions (Spring 2023)
 
 Description:

@@ -1,12 +1,3 @@
----
-layout: default
-title: "pseudorandomness"
----
-
----
-title: "Avishay Tal - CS 294-202 Pseudorandomness"
----
-
 # **CS 294-202 Pseudorandomness**
 
 **Course Description:**

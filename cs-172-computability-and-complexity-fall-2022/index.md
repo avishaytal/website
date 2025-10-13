@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs 172 computability and complexity fall 2022"
----
-
----
-title: "Avishay Tal - CS 172 Computability and Complexity (Fall 2022)"
----
-
 ## **CS 172 Computability and Complexity**
 
 ## **Fall 2022**

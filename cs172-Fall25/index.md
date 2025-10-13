@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs172 Fall25"
----
-
----
-title: "Avishay Tal - CS 172 Computability and Complexity (Fall 2025)"
----
-
 ## CS 172 Computability and Complexity
 
 ## Fall 2025

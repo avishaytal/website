@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs172 Fall25_lecture schedule fall 2025"
----
-
----
-title: "Avishay Tal - Lecture Schedule Fall 2025"
----
-
 ## Lecture Schedule
 
 [Open Spreadsheet, CS172 Fall 2025 Lecture Schedule in new window](https://drive.google.com/open?id=1u7MJUPbMGMED6z1xUB49WxcO42fR7kJuD9HeJRzR0ng "Open Spreadsheet, CS172 Fall 2025 Lecture Schedule in new window")

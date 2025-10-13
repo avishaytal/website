@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs 172 computability and complexity fall 2022_course policies and information fall 2022"
----
-
----
-title: "Avishay Tal - Course Policies and Information (Fall 2022)"
----
-
 ## **Course Policies and Information**
 
 **Format**

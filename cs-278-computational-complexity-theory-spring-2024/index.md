@@ -1,12 +1,3 @@
----
-layout: default
-title: "cs 278 computational complexity theory spring 2024"
----
-
----
-title: "Avishay Tal - CS 278 Computational Complexity Theory (Spring 2024)"
----
-
 # CS 278 Computational Complexity Theory (Spring 2024)
 
 Course Description

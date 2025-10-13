@@ -1,12 +1,3 @@
----
-layout: default
-title: "stoc 2020 workshop derandomizing space bounded computation"
----
-
----
-title: "Avishay Tal - STOC 2020 Workshop: Derandomizing Space-Bounded Computation"
----
-
 # **STOC 2020 Workshop: Derandomizing Space-Bounded Computation**
 
 [**Videos from the workshop**](https://www.youtube.com/watch?v=NfzE-WfGgq8&list=PLn0nrSd4xjjbEL2VLMeMUjqBmoPUUa6EF&index=33#t=3m)
