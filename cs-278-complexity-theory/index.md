@@ -158,8 +158,5 @@ IP = PSPACE
 
 [**172 Review Session**](https://drive.google.com/open?id=1j5G0lvvc8R7Kc7MXahNSUrrFh1UN92nc)
 
-Page updated
 
-Google Sites
 
-Report abuse

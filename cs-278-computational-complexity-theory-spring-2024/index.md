@@ -148,8 +148,5 @@ Topics
 - Hardness within P
 
 
-Page updated
 
-Google Sites
 
-Report abuse

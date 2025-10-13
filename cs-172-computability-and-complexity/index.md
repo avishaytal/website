@@ -134,8 +134,5 @@ Skip to navigation
 - Review sheet (list of topics) - [PDF](https://drive.google.com/file/d/1OVwdcC7JluTnvvMpdRkqU_tbsEv-H2Mr/view?usp=sharing) \- For May 5
 
 
-Page updated
 
-Google Sites
 
-Report abuse

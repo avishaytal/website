@@ -187,8 +187,5 @@ Undergraduate students who wish to take this class should fill out the following
 - [Expander Graphs and Their Applications](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.huji.ac.il%2F~nati%2FPAPERS%2Fexpander_survey.pdf&sa=D&sntz=1&usg=AOvVaw2ekU7p-MbygfCjQQCT0gtI) by Hoory, Linial, Wigderson
 
 
-Page updated
 
-Google Sites
 
-Report abuse

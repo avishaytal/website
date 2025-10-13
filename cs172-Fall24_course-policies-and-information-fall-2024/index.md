@@ -103,8 +103,5 @@ The department is maintaining an [Incident Reporting Form](http://eecs.link/clim
 
 This [page](https://eecs.berkeley.edu/resources/students/grievances) has links to other resources regarding student grievances and concerns in EECS.
 
-Page updated
 
-Google Sites
 
-Report abuse

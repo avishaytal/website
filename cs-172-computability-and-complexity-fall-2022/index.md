@@ -113,8 +113,5 @@ Skip to navigation
 
 [Course Website - Spring 2021](https://www.google.com/url?q=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F~sinclair%2Fcs172%2Fs21.html&sa=D&sntz=1&usg=AOvVaw25tpc9j6IVXruwRsCd6oyG) (Prof. Alistair Sinclair)
 
-Page updated
 
-Google Sites
 
-Report abuse

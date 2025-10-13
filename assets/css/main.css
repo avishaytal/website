@@ -664,11 +664,7 @@ pre code {
 }
 
 /* Hide Google Sites footer elements */
-.main-content img[src*="googleusercontent"],
-.main-content p:contains("Page updated"),
-.main-content p:contains("Google Sites"),
-.main-content p:contains("Report abuse"),
-.main-content p:contains("Back to site") {
+.main-content img[src*="googleusercontent"] {
     display: none;
 }
 

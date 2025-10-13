@@ -258,10 +258,6 @@ Videos about Fourier concentration and random restriction based PRGs:
 
 [Introduction to Analysis on the Discrete Cube](https://www.google.com/url?q=https%3A%2F%2Fsimons.berkeley.edu%2Ftalks%2Fintroduction-analysis-discrete-cube&sa=D&sntz=1&usg=AOvVaw3_hVVr_Q9zENm_4YsnFdsL) \- Krzysztof Oleszkiewicz - 4 talks
 
-Page updated
 
-Google Sites
 
-Report abuse
 
-Back to site

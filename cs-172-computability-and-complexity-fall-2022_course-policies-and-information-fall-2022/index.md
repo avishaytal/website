@@ -103,8 +103,5 @@ The department is maintaining an [Incident Reporting Form](http://www.google.com
 
 This [page](https://www.google.com/url?q=https%3A%2F%2Feecs.berkeley.edu%2Fresources%2Fstudents%2Fgrievances&sa=D&sntz=1&usg=AOvVaw0AWIRpUjZ6ZFu2hnzLpOQ4)has links to other resources regarding student grievances and concerns in EECS.
 
-Page updated
 
-Google Sites
 
-Report abuse

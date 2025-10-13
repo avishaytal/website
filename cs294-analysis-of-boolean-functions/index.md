@@ -211,8 +211,5 @@ Other Courses:
 
 [Ryan O'Donnell - AOBF - Mini-Course](http://www.cs.cmu.edu/~odonnell/papers/barbados-aobf-lecture-notes.pdf) (2012) Scribe Notes by Li-Yang Tan
 
-Page updated
 
-Google Sites
 
-Report abuse

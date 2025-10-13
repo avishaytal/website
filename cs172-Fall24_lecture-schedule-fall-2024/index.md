@@ -44,8 +44,5 @@ Skip to navigation
 
 ## Lecture Schedule
 
-Page updated
 
-Google Sites
 
-Report abuse

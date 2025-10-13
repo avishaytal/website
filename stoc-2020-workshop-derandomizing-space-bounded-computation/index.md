@@ -120,10 +120,6 @@ Joint works with Murtagh, Reingold, and Sidford (FOCS \`17 and RANDOM \`19) and 
 
 Another excellent resource is this[two](https://www.youtube.com/watch?v=Wjo7o8aOiQ4&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4&t=0s)-[part](https://www.youtube.com/watch?v=fl3_4TczN4w&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4) tutorial lectures by[Omer Reingold](https://www.google.com/url?q=https%3A%2F%2Fomereingold.wordpress.com&sa=D&sntz=1&usg=AOvVaw2POtfAcZPUATVc0SV_ZAKs) about the same topic from CCC 2019.
 
-Page updated
 
-Google Sites
 
-Report abuse
 
-Back to site
