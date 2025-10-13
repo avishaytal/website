@@ -1,0 +1,135 @@
+---
+layout: default
+title: "cs172 Fall25"
+---
+
+---
+url: "/cs172-Fall25/"
+title: "Avishay Tal - CS 172 Computability and Complexity (Fall 2025)"
+---
+
+Search this site
+
+Embedded Files
+
+Skip to main content
+
+Skip to navigation
+
+[Avishay Tal](/avishay-tal/)
+
+- [Avishay Tal](/avishay-tal/)
+
+- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
+
+
+
+
+
+- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
+
+- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
+
+
+- [CS 294-202 Pseudorandomness](/pseudorandomness/)
+
+- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
+
+- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
+
+- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
+
+
+[Avishay Tal](/avishay-tal/)
+
+## CS 172 Computability and Complexity
+
+## Fall 2025
+
+## [Copy heading link](/cs172-Fall25/\#h.ylje03eoop2n)    Course Staff
+
+Instructor: [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
+
+Lectures: Tue/Thu 12:30-2:00 p.m. at 110 - Social Sciences Building.
+
+Office Hours: Tue 2:30-3:30 p.m. (Soda 635) or coordinate via email.
+
+GSI: Yi-Nuo Zhang (yinuo "at" berkeley.edu)
+
+DiscussionSections: Wed 6:00P-6:59P - 220 - Wheeler
+
+Office Hours: Fri 3-4 p.m. at Soda 617.
+
+UGSI:  Kyle Fenimore(kyle.fenimore "at" berkeley.edu)
+
+DiscussionSections: Wed 12-1 p.m. \- Soda 310.
+
+Office Hours: Mon, 11a.m.-noon, Soda 411.
+
+Reader: Qinggao Hong (qinggao.hong "at" berkeley.edu)
+
+## [Copy heading link](/cs172-Fall25/\#h.bhyds0kqhn5l)    [Ed Discussions](https://edstem.org/us/courses/84973)
+
+## [Copy heading link](/cs172-Fall25/\#h.uqlorcfp2034)    [Gradescope](https://www.gradescope.com/courses/1110614)
+
+## [Copy heading link](/cs172-Fall25/\#h.vuep57vi7v6q)    [Course's Policies & Information](/cs172-Fall25/course-policies-and-information-fall-2025/)
+
+## [Copy heading link](/cs172-Fall25/\#h.pda6nmjyhc0d)    [Lecture Schedule](/cs172-Fall25/lecture-schedule-fall-2025/)
+
+## [Copy heading link](/cs172-Fall25/\#h.a24uerdgh75d)    [Homeworks](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)
+
+- Homework 1 - [PDF](https://drive.google.com/file/d/1v62W_Q-pu8Dvk33WUXKlR2kpngTj5yV4/view?usp=share_link) \- Released Aug 30, Due Sep 8
+
+- Homework 2  - [PDF](https://drive.google.com/file/d/1ECy6neB_FY0cwCocYDcehe5TOtmhvRQ5/view?usp=share_link) \- Released Sep 5, Due Sep 15
+
+- Homework 3  - [PDF](https://drive.google.com/file/d/1HVCyVl_J1d_5DZppIQEtTBQ_FO_mWpuG/view?usp=share_link) \- Released Sep 15, Due Sep 22
+
+- Homework 4 - [PDF](https://drive.google.com/file/d/1zH9PZJUcjrV327s-AzxR8bCgbljHSKgA/view?usp=share_link) \- Released Sep 22, Due Sep 29
+
+- Homework 5 - [PDF](https://drive.google.com/file/d/1OXIcB9eP2aGOuviMgFhWLfGkZlq3lsQ3/view?usp=share_link) \- Released Oct 7, Due Oct 13
+
+- Homework 6
+
+- Homework 7
+
+- Homework 8
+
+- Homework 9
+
+- Homework 10
+
+- Homework 11
+
+
+## [Copy heading link](/cs172-Fall25/\#h.sa64unhksmb5)    Exams
+
+- Midterm 1: Oct 2, 7:00-9:00 PM
+
+- Midterm 2: Nov 4, 7:00-9:00 PM
+
+- Final: Friday, Dec 19, 8:00-11:00AM
+
+
+## [Copy heading link](/cs172-Fall25/\#h.oxpkwox7f89v)    Useful Resources:
+
+[Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
+
+[Mathematics and Computation - Avi Wigderson](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
+
+[Finite State Machine Designer](https://madebyevan.com/fsm/)
+
+[Course Website - Fall 2024](/cs172-Fall24/)
+
+[Course Website - Fall 2022](/cs-172-computability-and-complexity-fall-2022/)
+
+[Course Website - Spring 2022](/cs-172-computability-and-complexity/)
+
+[Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
+
+Page updated
+
+Google Sites
+
+Report abuse
+
+Back to site
