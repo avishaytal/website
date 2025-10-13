@@ -8,40 +8,6 @@ url: "/pseudorandomness/"
 title: "Avishay Tal - CS 294-202 Pseudorandomness"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 # **CS 294-202 Pseudorandomness**
 
 **Course Description:**
@@ -71,8 +37,6 @@ Undergraduate students who wish to take this class should fill out the following
 **Textbook:**
 
 - Salil Vadhan - [Pseudorandomness](https://www.google.com/url?q=https%3A%2F%2Fpeople.seas.harvard.edu%2F~salil%2Fpseudorandomness%2F&sa=D&sntz=1&usg=AOvVaw2jc9ipUift6CNRnbiOuSkb)
-
-
 **Problem Sets:**
 
 - [Homework 1](https://drive.google.com/open?id=1hWKWDmRkJJia3IJtIk6KL7TtoxcKmIsk) \- Due Monday, Sep 20.
@@ -82,8 +46,6 @@ Undergraduate students who wish to take this class should fill out the following
 - [Homework 3](https://drive.google.com/open?id=1fEZuPwn8l5YjafzLJ5_m9FlYhcAsJrUw) \- Due Thursday, Oct 21.
 
 - [Homework 4](https://drive.google.com/open?id=1dg-36TBTuEr4NSfberBIsKZL44GF-yq6) \- Due Thursday, Nov 18.
-
-
 **Topics:**
 
 - k-wise Independence
@@ -101,8 +63,6 @@ Undergraduate students who wish to take this class should fill out the following
 - Connections between all the above
 
 - Derandomization of Small-Space Computation
-
-
 **Lectures****:**
 
 01. Introduction + derandomizing an approximation algorithm Max-Cut [Lecture note](https://drive.google.com/file/d/1AylPHRG8TgqdpkJz_WMSEEyLG0YMu9KW/view?usp=sharing)
@@ -138,8 +98,6 @@ Undergraduate students who wish to take this class should fill out the following
 16. Trevisan's Extractor [Lecture note](https://drive.google.com/file/d/1b1jJCCeTNTx0rATUAjD35T6i5uI-8kXi/view?usp=sharing)
 
 17. Two-Source Extractor [Lecture note](https://drive.google.com/file/d/1MxNthKi-Hi9p0OWoxBZUg4uqkT4-RAY3/view?usp=sharing)
-
-
 **Derandomizing Small-Space Computation:**
 
 18. Nisan's PRG [Lecture note](https://drive.google.com/file/d/1DXdmCAf6rqARVFwFx4h6kpI1Mk2a4iJN/view?usp=sharing)
@@ -155,8 +113,6 @@ Undergraduate students who wish to take this class should fill out the following
 23. Cheng-Hoza: Hitting Sets Give Two-Sided Derandomization of Small Space [Lecture note](https://drive.google.com/file/d/13KFoyY6D57SkDWlo0GHgWe14kkL06Z5i/view?usp=sharing)
 
 24. Fractional PRGs and Polarizing Random Walks [Lecture note](https://drive.google.com/file/d/11GODwOXkJeT03DYV6UNja4E0Cdoyufxh/view?usp=sharing)
-
-
 **Student Final Projects****:**
 
 - [Survey of Interlacing Families for Bipartite Ramanujan Graphs](https://drive.google.com/file/d/1C9nJtrFQsuKts0K4aE9I2HdF8k1AcG8a/view?usp=sharing) byAaron (Louie) Putterman and Saachi Mutreja
@@ -176,8 +132,6 @@ Undergraduate students who wish to take this class should fill out the following
 - [PRGs for Monotone Read-Once Branching Programs](https://drive.google.com/file/d/1MPlKxIKHh9UctYbaUXqJ_f1aDiF5Nig1/view?usp=sharing) by Zoë Bell and Malvika Raj
 
 - [Computational Extractors & Applications](https://drive.google.com/file/d/1cpdNbCdVuqExw4WFV-hxF6FAQcY8AMum/view?usp=sharing) by Jialin Li and Dhanya Jayagopal
-
-
 **Additional Reading****:**
 
 - [Analysis of Boolean Functions](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.cmu.edu%2F~odonnell%2Fpapers%2FAnalysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf&sa=D&sntz=1&usg=AOvVaw3OanXsRGMH7GPgPDLPRw4g) by [Ryan O'Donnell](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.cmu.edu%2F~odonnell%2F&sa=D&sntz=1&usg=AOvVaw0OAxOoW2swE4wj1-DmfsNZ).
@@ -185,7 +139,3 @@ Undergraduate students who wish to take this class should fill out the following
 - [Simple Construction of Almost k-wise Independent Random Variables](https://www.google.com/url?q=https%3A%2F%2Fwww.wisdom.weizmann.ac.il%2F~oded%2Fp_aghp.html&sa=D&sntz=1&usg=AOvVaw2rlyWkop8_CiGRLax3h425) by Alon, Goldreich, Håstad, Peralta
 
 - [Expander Graphs and Their Applications](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.huji.ac.il%2F~nati%2FPAPERS%2Fexpander_survey.pdf&sa=D&sntz=1&usg=AOvVaw2ekU7p-MbygfCjQQCT0gtI) by Hoory, Linial, Wigderson
-
-
-
-

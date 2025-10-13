@@ -8,40 +8,6 @@ url: "/cs-294-92-analysis-of-boolean-functions-spring-2020/"
 title: "Avishay Tal - CS 294-92: Analysis of Boolean Functions (Spring 2020)"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 # **CS 294-92: Analysis of Boolean Functions**
 
 Boolean functions are central objects of study in theoretical computer science and combinatorics. Analysis of Boolean functions, and in particular Fourier analysis, has been a successful tool in the areas of circuit lower bounds, hardness of approximation, social choice, threshold phenomena, pseudo-randomness, property testing, learning theory, cryptography, quantum computing, query complexity, and others.
@@ -81,8 +47,6 @@ In addition, we will highlight some recent exciting results that are not covered
 - [Homework 3](https://drive.google.com/open?id=1ur1V858TdKhk-ytZe2wS1E85U3Xyn9Fu) \- Due Tuesday, Mar 31.
 
 - [Homework 4](https://drive.google.com/open?id=1L2huhm3Yp1HX8VwY_HI9YzRakRkI1gEd) \- Due Tuesday, May 5.
-
-
 Discussions:[Piazza](https://www.google.com/url?q=https%3A%2F%2Fpiazza.com%2Fclass%2Fk5swc8w6mn82f&sa=D&sntz=1&usg=AOvVaw1qLu4p4Tyzx-OljNHX2uWO)
 
 HW submissions:[Gradescope](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F85615&sa=D&sntz=1&usg=AOvVaw2sDDzTFvodUtA_21bl5bWL)
@@ -208,8 +172,6 @@ For each lecture - see the relevant chapters in O'Donnell's book + additional re
 27. Apr 28 - Presentations # 3
 
 28. Apr 30 - Presentations # 4
-
-
 Additional note: [FKN's Proof](https://drive.google.com/open?id=1gqqHv6iTVNYuvWA_9fr43796gjejN8Ul) (a new version).
 
 **Resources and Other Courses:**
@@ -257,7 +219,3 @@ Videos about Fourier concentration and random restriction based PRGs:
 [Analytic Methods for Supervised Learning​](https://www.google.com/url?q=https%3A%2F%2Fsimons.berkeley.edu%2Ftalks%2Fanalytic-methods-supervised-learning&sa=D&sntz=1&usg=AOvVaw1XKvsD-ZdlrgSsILmTOthL) \- Adam Klivans - 4 talks
 
 [Introduction to Analysis on the Discrete Cube](https://www.google.com/url?q=https%3A%2F%2Fsimons.berkeley.edu%2Ftalks%2Fintroduction-analysis-discrete-cube&sa=D&sntz=1&usg=AOvVaw3_hVVr_Q9zENm_4YsnFdsL) \- Krzysztof Oleszkiewicz - 4 talks
-
-
-
-

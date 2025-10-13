@@ -7,27 +7,6 @@ title: "avishay tal"
 url: "/avishay-tal/"
 title: "Avishay Tal"
 ---
-
-[Avishay Tal](./avishay-tal/)
-
-- [Avishay Tal](./avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](./cs172-Fall25/)
-
-- [Course Policies and Information (Fall 2025)](./cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](./cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](./pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](./cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](./cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](./stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
 # Avishay Tal
 
 Hi, I'm Avishay, an Associate Professor at the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley. I am honored to be part of Berkeley's [Theory Group](http://theory.cs.berkeley.edu/).
@@ -117,8 +96,6 @@ Current Ph.D. Students
 - [Hongxun Wu](https://whxwhx.github.io/publications/) (co-advised with [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/))
 
 - [Yichuan Wang](https://wyc908.github.io/) (co-advised with [Lijie Chen](https://chen-lijie.github.io/))
-
-
 Former Students
 
 - [Michael Whitmeyer](https://mwhitmeyer.github.io/) \- M.Sc. - now PhD @ UW
@@ -130,8 +107,6 @@ Former Students
 - [Kewen Wu](https://shlw.github.io/) \- PhD 2025 - now postdoc at IAS
 
 - [Orr Paradise](http://people.eecs.berkeley.edu/~orrp/) \- PhD 2025 (co-advised with [Shafi Goldwasser](http://people.csail.mit.edu/shafi/)) \- now postdoc at EPFL.
-
-
 Former Postdocs
 
 - [William M. Hoza](https://williamhoza.com/tcs/) \- Simons-Berkeley postdoc (now Faculty at U Chicago)
@@ -139,8 +114,6 @@ Former Postdocs
 - [Makrand Sinha](https://makrandsinha.github.io/) \- Simons-Berkeley postdoc (now Faculty at UIUC)
 
 - [Lijie Chen](https://www.mit.edu/~lijieche/) \- Miller Fellow
-
-
 Short Bio: I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
 
 ## Publications
@@ -458,5 +431,3 @@ Short Bio: I received my Ph.D. in 2015 from the Weizmann Institute of Science, u
     CCC, 2011. Combinatorica, 2014.
 
      [\[Richard Lipton's Blog Post\]](https://rjlipton.wordpress.com/2010/11/19/is-complexity-theory-on-the-brink/) [\[2\]](https://rjlipton.wordpress.com/2011/01/05/fourier-complexity-of-cirtemmys-boolean-functions/)
-
-

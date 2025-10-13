@@ -8,40 +8,6 @@ url: "/cs-172-computability-and-complexity/"
 title: "Avishay Tal - CS 172 Computability and Complexity"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 ## **CS 172 Computability and Complexity**
 
 ## **Spring 2022**
@@ -99,8 +65,6 @@ Skip to navigation
 - Homework 10 - [PDF](https://drive.google.com/file/d/1teATmIPt0hJmWG2wJxAbdKrPGRUrnUuM/view?usp=sharing), [TeX](https://drive.google.com/file/d/1KFJATJJQKtsyELAcCl3HXOQpmWXNlA3m/view?usp=sharing) \- Released Apr 15, Due Apr 23
 
 - Homework 11 - [PDF](https://drive.google.com/file/d/1NLs9VMRxplUSywEbjqvm-kUK4A33wX0p/view?usp=sharing), [TeX](https://drive.google.com/file/d/1z21BvqtpBoHyVknTDFsPEZ_-M_dNwpHt/view?usp=sharing) \- Released Apr 23, Due Apr 30
-
-
 **Discussion Handouts**
 
 - Discussion 1 - [PDF](https://drive.google.com/file/d/1v8rd-fQnfQYsOn7R6PAAK6_Yswqx0TLz/view?usp=sharing) \- For Jan 20, Posted Jan 23 - [Notes](https://drive.google.com/file/d/1wLZRApeXzumpCvM5359b0QMq-ZdBTnWc/view?usp=sharing)
@@ -132,7 +96,3 @@ Skip to navigation
 - Discussion 14 - [PDF](https://drive.google.com/file/d/1bOJrbGUWB8dv4Rt5L2BloGBhEqWVUUqL/view?usp=sharing) \- For Apr 28, Posted Apr 26
 
 - Review sheet (list of topics) - [PDF](https://drive.google.com/file/d/1OVwdcC7JluTnvvMpdRkqU_tbsEv-H2Mr/view?usp=sharing) \- For May 5
-
-
-
-

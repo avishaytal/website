@@ -8,40 +8,6 @@ url: "/cs-278-complexity-theory/"
 title: "Avishay Tal - CS 278 Computational Complexity Theory"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 # **CS 278 Computational Complexity Theory**
 
 **Course Description:**
@@ -77,8 +43,6 @@ For those of you that want a refresher on the general setting, or those that hav
 - Avi Wigderson -[Mathematics and Computation](https://www.google.com/url?q=https%3A%2F%2Fwww.math.ias.edu%2Favi%2Fbook&sa=D&sntz=1&usg=AOvVaw1R3HNh-y2TegJ9_vM0TeMt)
 
 - Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://www.google.com/url?q=http%3A%2F%2Feccc.hpi-web.de%2Fresources%2Fpdf%2Fcohen.pdf&sa=D&sntz=1&usg=AOvVaw3LzZMku3lkaxB7pHb0BwAK)
-
-
 [Piazza](http://www.google.com/url?q=http%3A%2F%2Fpiazza.com%2Fberkeley%2Fspring2021%2Fcs278%2Fhome&sa=D&sntz=1&usg=AOvVaw2sxbfa5Nv7tAdn8P48wGg7)
 
 [Gradescope](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F242906&sa=D&sntz=1&usg=AOvVaw18OauiCpkMxY7XfZ0Bgd4M)
@@ -92,8 +56,6 @@ For those of you that want a refresher on the general setting, or those that hav
 - [Homework 3](https://drive.google.com/open?id=1NQYTyLTnpZub9w2EpW47cbG81y5bRMoi) \- Due Thursday, Mar 18.
 
 - [Homework 4](https://drive.google.com/open?id=1naoQEjgq9-Fg53vYO-S0u6O_oQmu_XKO) \- Due Friday, Apr 16.
-
-
 **Topics:**
 
 **Time-Complexity (Chapter 3 AB)**
@@ -157,6 +119,3 @@ IP = PSPACE
 [**Scribe Notes**](https://drive.google.com/open?id=1Yy1tb_Dj4g63LtnzK38pT0XYJiI-Vtxw)
 
 [**172 Review Session**](https://drive.google.com/open?id=1j5G0lvvc8R7Kc7MXahNSUrrFh1UN92nc)
-
-
-

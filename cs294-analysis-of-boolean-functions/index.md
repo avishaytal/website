@@ -8,40 +8,6 @@ url: "/cs294-analysis-of-boolean-functions/"
 title: "Avishay Tal - CS 294-92: Analysis of Boolean Functions"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 # CS 294-92: Analysis of Boolean Functions (Spring 2023)
 
 Description:
@@ -85,8 +51,6 @@ Problem Sets:
 - [Homework 3](https://drive.google.com/file/d/1G1udr2Pn7vzfSF3oXYuHaz5JICDZyiMa/view?usp=share_link) \- Due Friday, Mar 17.
 
 - [Homework 4](https://drive.google.com/file/d/1q0HvaCXkuvegWFQDepk8msUEaX3lmUBg/view?usp=share_link) \- Due Wednesday, Apr 19.
-
-
 A [link](https://drive.google.com/drive/folders/1-_yaLlEaVoJkon430DLCtxbKCeId_bX1?usp=sharing) to Google Drive's with all PSets and lecture notes for this semester (Spring 2023).
 
 Discussions on [Ed](https://edstem.org/us/courses/35323/discussion/)
@@ -136,8 +100,6 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 19. Mar 21 - Dictator Testing & PCPPs - Chapter 7 - [Lecture Notes](https://drive.google.com/file/d/15sf9R1xvWfxv-5gSL1KZ0_2IMuxuhDiU/view?usp=sharing) (Zhixuan Zhou)
 
 20. Mar 23- Hardness of Approximation from UGC - Chapter 7 - [Lecture Notes](https://drive.google.com/file/d/1TfI7APlMDU_cmgMEQ14S9Nin8H5PXCKw/view?usp=sharing) (Hongxun Wu)
-
-
 \-\- Spring Break
 
 21. Apr 4 - The Invariance Principle - Chapter 11 - [Lecture Notes](https://drive.google.com/file/d/1u66pLIRwGd-Mhz5_4DeyEtjDTa93LlMr/view?usp=sharing) (Xuandi Ren)
@@ -155,8 +117,6 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 27. Apr 28 - Presentations # 1 + [Open Problems](https://drive.google.com/file/d/1OC0V-zIiAmkEhZE_pSekgmQlkan8Cnmg/view?usp=sharing) (Meghal Gupta)
 
 28. Apr 30 - Presentations # 2
-
-
 RRR Week: More Presentations
 
 Resources and Other Courses:
@@ -210,6 +170,3 @@ Other Courses:
 [Irit Dinur and Ehud Friedgut - HUJI](https://www.cse.huji.ac.il/~analyt/) (2005)
 
 [Ryan O'Donnell - AOBF - Mini-Course](http://www.cs.cmu.edu/~odonnell/papers/barbados-aobf-lecture-notes.pdf) (2012) Scribe Notes by Li-Yang Tan
-
-
-

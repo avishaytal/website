@@ -8,40 +8,6 @@ url: "/cs172-Fall25/course-policies-and-information-fall-2025/"
 title: "Avishay Tal - Course Policies and Information (Fall 2025)"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 ## Course Policies and Information
 
 Format
@@ -67,8 +33,6 @@ The final grade will be composed as follows:
 - 20% second midterm - Nov 4, 7-9P, Evans 60
 
 - 35% final exam - Fri, Dec 19,8:00-11:00AM, Exam Location TBD
-
-
 Homework
 
 There will be 11 homework problem sets. When calculating the homework average, we will drop the bottom 2 grades,whichcan be used only in the last 7 problem sets (i.e., no drops in the first 4 problem sets). We will not allow automatic slip days, but will allow a grace period of up to 2 hours for each submission. In case you are under special circumstances that require more time, please contact the course staff, and we'll do our best to accommodate. During the weeks preceding the two midterms, we will not hand out homework problems to allow you to study for the midterms.
@@ -102,7 +66,3 @@ Climate & Incident Reporting
 The department is maintaining an [Incident Reporting Form](http://eecs.link/climate) that students can use if they feel unsafe, disrespected, or unwelcome. You are encouraged to use it if this applies to you (in this class or elsewhere on campus)
 
 This [page](https://eecs.berkeley.edu/resources/students/grievances) has links to other resources regarding student grievances and concerns in EECS.
-
-
-
-

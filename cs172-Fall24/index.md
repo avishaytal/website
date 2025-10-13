@@ -8,40 +8,6 @@ url: "/cs172-Fall24/"
 title: "Avishay Tal - CS 172 Computability and Complexity (Fall 2024)"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 ## CS 172 Computability and Complexity
 
 ## Fall 2024
@@ -101,8 +67,6 @@ Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 - Homework 9 - [PDF](https://drive.google.com/file/d/1KgIzhsfW-piHM3ntNkD2UPm5tALHCEsG/view?usp=share_link) \- Released Nov 8, Due Nov 18
 
 - Homework 10 - [PDF](https://drive.google.com/file/d/1raqSMq_4Ws1ywPyqmLOrjR8v_86XuaWj/view?usp=share_link) \- Released Nov 18, Due Nov 25
-
-
 Useful Resources:
 
 [Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
@@ -116,6 +80,3 @@ Useful Resources:
 [Course Website - Spring 2022](/cs-172-computability-and-complexity/)
 
 [Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
-
-
-

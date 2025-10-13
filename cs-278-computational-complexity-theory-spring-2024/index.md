@@ -8,40 +8,6 @@ url: "/cs-278-computational-complexity-theory-spring-2024/"
 title: "Avishay Tal - CS 278 Computational Complexity Theory (Spring 2024)"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
-[Avishay Tal](/avishay-tal/)
-
-- [Avishay Tal](/avishay-tal/)
-
-- [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
-
-- [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
-
-- [Lecture Schedule Fall 2025](/cs172-Fall25/lecture-schedule-fall-2025/)
-
-
-- [CS 294-202 Pseudorandomness](/pseudorandomness/)
-
-- [CS 278 Computational Complexity Theory (Spring 2024)](/cs-278-computational-complexity-theory-spring-2024/)
-
-- [CS 294-92: Analysis of Boolean Functions (Spring 2025)](/cs-294-92-analysis-of-boolean-functions-spring-2025/)
-
-- [STOC 2020 Workshop: Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/)
-
-
-[Avishay Tal](/avishay-tal/)
-
 # CS 278 Computational Complexity Theory (Spring 2024)
 
 Course Description
@@ -73,8 +39,6 @@ Textbooks & Lecture Notes:
 - Avi Wigderson - [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
 - Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://eccc.hpi-web.de/resources/pdf/cohen.pdf)
-
-
 [Problem Sets](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=sharing)
 
 - [HW1](https://drive.google.com/file/d/1yNeSPiWIEuEtMyXHHHvMAx1ABNj9tH7L/view?usp=sharing) \-\- Due Feb 12
@@ -84,8 +48,6 @@ Textbooks & Lecture Notes:
 - [HW3](https://drive.google.com/file/d/1lxOIXJAUsIDCRWpqBwwaZbMEueKQINVM/view?usp=share_link) \-\- Due Mar 22
 
 - [HW4](https://drive.google.com/file/d/12mM8QpJmL8Or6HlSRBlS9ZWlUH50kIxf/view?usp=share_link) \-\- Due Apr 19
-
-
 [Lecture Notes](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=share_link)
 
 Topics
@@ -146,7 +108,3 @@ Topics
 
   - Lifting Theorems
 - Hardness within P
-
-
-
-
