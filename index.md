@@ -80,7 +80,7 @@ CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complex
 
 Current Ph.D. Students
 
-- [Zoë Bell](https://sites.google.com/berkeley.edu/zoebell/)(co-advised with [Shafi Goldwasser](http://people.csail.mit.edu/shafi/))
+- [Zoë Bell](https://sites.google.com/berkeley.edu/zoebell/) (co-advised with [Shafi Goldwasser](http://people.csail.mit.edu/shafi/))
 
 - [Xin Lyu](https://people.eecs.berkeley.edu/~xinlyu/) (co-advised with [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/))
 
@@ -249,7 +249,7 @@ Short Bio: I received my Ph.D. in 2015 from the Weizmann Institute of Science, u
 
     Presented at the 22nd Annual Conference on Quantum Information Processing (QIP 2019) as a plenary talk.
 
-     [\[Computational Complexity Blog\]](https://blog.computationalcomplexity.org/2018/06/bqp-not-in-polynomial-time-hierarchy-in.html) [\[Shtetl-Optimized\]](https://www.scottaaronson.com/blog/?p=3827) [\[Windows on Theory\]](https://windowsontheory.org/2018/06/17/on-the-raz-tal-oracle-separation-of-bqp-and-ph/) [\[New Scientist\]](https://www.newscientist.com/article/2170746-quantum-computers-are-weirder-and-more-powerful-than-we-thought/) [\[Quanta\]](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/) [\[The Hindu\]](https://www.thehindu.com/sci-tech/science/quantum-computers-have-an-edge-over-classical-ones-says-the-oracle/article24420375.ece) [\[CACM\]](http://cacm.acm.org/magazines/2019/1/233514-quantum-leap/fulltext) [\[Nature\]](https://www.nature.com/articles/d41586-018-07801-3) [Video](http://www.birs.ca/events/2018/5-day-workshops/18w5197/videos/watch/201808161505-Tal.html?jwsource=cl) (CMO Oaxaca) [Video](https://www.youtube.com/watch?v=LUGr7mO-tM0)(IAS)
+     [\[Computational Complexity Blog\]](https://blog.computationalcomplexity.org/2018/06/bqp-not-in-polynomial-time-hierarchy-in.html) [\[Shtetl-Optimized\]](https://www.scottaaronson.com/blog/?p=3827) [\[Windows on Theory\]](https://windowsontheory.org/2018/06/17/on-the-raz-tal-oracle-separation-of-bqp-and-ph/) [\[New Scientist\]](https://www.newscientist.com/article/2170746-quantum-computers-are-weirder-and-more-powerful-than-we-thought/) [\[Quanta\]](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/) [\[The Hindu\]](https://www.thehindu.com/sci-tech/science/quantum-computers-have-an-edge-over-classical-ones-says-the-oracle/article24420375.ece) [\[CACM\]](http://cacm.acm.org/magazines/2019/1/233514-quantum-leap/fulltext) [\[Nature\]](https://www.nature.com/articles/d41586-018-07801-3) [Video](http://www.birs.ca/events/2018/5-day-workshops/18w5197/videos/watch/201808161505-Tal.html?jwsource=cl) (CMO Oaxaca) [Video](https://www.youtube.com/watch?v=LUGr7mO-tM0) (IAS)
 
 23. Exponential separation between shallow quantum circuits and unbounded fan-in shallow classical circuits
 

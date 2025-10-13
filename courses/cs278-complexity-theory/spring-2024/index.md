@@ -22,13 +22,14 @@ Pre-Reading: For those of you who want a refresher on the general setting, or th
 
 Textbooks & Lecture Notes:
 
-- Sanjeev Arora, Boaz Barak - [Computational Complexity, A Modern Approach](http://theory.cs.princeton.edu/complexity/) \+ [Web Addendum](https://www.cs.utexas.edu/~danama/courses/adv-comp20/accnexp.pdf)
+- Sanjeev Arora, Boaz Barak - [Computational Complexity, A Modern Approach](http://theory.cs.princeton.edu/complexity/) + [Web Addendum](https://www.cs.utexas.edu/~danama/courses/adv-comp20/accnexp.pdf)
 
 - Oded Goldreich -  [Computational Complexity, A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html)
 
 - Avi Wigderson - [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
 - Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://eccc.hpi-web.de/resources/pdf/cohen.pdf)
+
 [Problem Sets](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=sharing)
 
 - [HW1](https://drive.google.com/file/d/1yNeSPiWIEuEtMyXHHHvMAx1ABNj9tH7L/view?usp=sharing) \-\- Due Feb 12
@@ -38,6 +39,7 @@ Textbooks & Lecture Notes:
 - [HW3](https://drive.google.com/file/d/1lxOIXJAUsIDCRWpqBwwaZbMEueKQINVM/view?usp=share_link) \-\- Due Mar 22
 
 - [HW4](https://drive.google.com/file/d/12mM8QpJmL8Or6HlSRBlS9ZWlUH50kIxf/view?usp=share_link) \-\- Due Apr 19
+
 [Lecture Notes](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=share_link)
 
 Topics

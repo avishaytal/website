@@ -37,7 +37,7 @@ Problem Sets:
 - [HW3](https://drive.google.com/file/d/1ffrTP_Y3naVwg2SXCJnAOBq4AMVJiR5a/view?usp=share_link) \- Due Monday, Mar 17.
 
 - [HW4](https://drive.google.com/file/d/1F4T4jCzMRevf90ANBSq__VUHQM4M0DEA/view?usp=sharing) \- Due Monday, Apr 7.
-[Discussions onEd](https://edstem.org/us/courses/75020/discussion)
+[Discussions on Ed](https://edstem.org/us/courses/75020/discussion)
 
 HW submissions on [Gradescope](https://www.gradescope.com/courses/980320)
 
@@ -53,7 +53,7 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 
 04. Jan 30 \- Influences, Effects-  Chapters 2.2, 2.3 -- [notes](https://drive.google.com/file/d/1YYUHu6tz7eJghUzQIqanbGSZRQCEi015/view) (Patrick Bales)
 
-05. Feb4\- Isoperimetric Inequalities, Noise Stability, Arrow's Theorem -  Chapters 2.4, 2.5 -- [notes](https://drive.google.com/file/d/1PIRoYDpXRd1F48fsyutyBFR_URrMMWnh/view?usp=sharing) (Prastik Mohanraj)
+05. Feb 4 \- Isoperimetric Inequalities, Noise Stability, Arrow's Theorem -  Chapters 2.4, 2.5 -- [notes](https://drive.google.com/file/d/1PIRoYDpXRd1F48fsyutyBFR_URrMMWnh/view?usp=sharing) (Prastik Mohanraj)
 
 06. Feb 6 \- Spectral Concentration and Low-Degree Learning -  Chapters 3.1-3.4
 
@@ -94,7 +94,7 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 
 24. Apr 17 \- The Sensitivity Theorem - [\[Huang'19\]](https://arxiv.org/abs/1907.00847)
 
-25. Apr 22 \- Extremal Combinatorics, The Sunflower Lemma \- [\[Alweiss-Lovett-Wu-Zhang'19\]](https://arxiv.org/abs/1908.08483) \[ [Rao'19](https://arxiv.org/abs/1909.04774)\]
+25. Apr 22 \- Extremal Combinatorics, The Sunflower Lemma \- [\[Alweiss-Lovett-Wu-Zhang'19\]](https://arxiv.org/abs/1908.08483) \[[Rao'19](https://arxiv.org/abs/1909.04774)\]
 
 26. Apr 24 \- Threshold Phenomena, Proof of the Kahn-Kalai Conjecture \- [\[Park-Pham'22\]](https://arxiv.org/abs/2203.17207) [\[Frankston-Kahn-Narayanan-Park'19\]](https://arxiv.org/abs/1910.13433)
 
@@ -136,7 +136,7 @@ Videos about Fourier concentration and random restriction-based PRGs:
 
 Other Courses:
 
-[Dor Minzer - MIT](https://sites.google.com/view/dorminzer/teaching?authuser=0)(2021)
+[Dor Minzer - MIT](https://sites.google.com/view/dorminzer/teaching?authuser=0) (2021)
 
 [Yuval Filmus - Technion](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=1240) (2021)
 
@@ -148,7 +148,7 @@ Other Courses:
 
 [Oded Regev - NYU](https://cims.nyu.edu/~regev/teaching/analysis_fall_2012/) (2012)
 
-[Ryan O'Donnell - CMU](http://www.cs.cmu.edu/~odonnell/aobf12/)(2012)
+[Ryan O'Donnell - CMU](http://www.cs.cmu.edu/~odonnell/aobf12/) (2012)
 
 [Guy Kindler - Weizmann](https://www.cse.huji.ac.il/~gkindler/weizmann-course/) (2008)
 
