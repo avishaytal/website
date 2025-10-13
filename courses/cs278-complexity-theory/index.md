@@ -1,28 +1,28 @@
 # **CS 278 Computational Complexity Theory**
 
-**Course Description:**
+## Course Description:
 
-Computational Complexity studies the power and limitations of efficient computation. What can be computed with bounded resources such as time, memory, randomness, communication, and parallel cores? In this course, we will explore these beautiful questions. While most of them are widely open (e.g., Is verifying easier than proving? Is parallelism always helpful? Does randomness help in computation?), we will see many surprising connections between them. The course will be based on selected chapters from the book “[**Computational Complexity**](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr)” by **Sanjeev Arora** and **Boaz Barak**.
+Computational Complexity studies the power and limitations of efficient computation. What can be computed with bounded resources such as time, memory, randomness, communication, and parallel cores? In this course, we will explore these beautiful questions. While most of them are widely open (e.g., Is verifying easier than proving? Is parallelism always helpful? Does randomness help in computation?), we will see many surprising connections between them. The course will be based on selected chapters from the book “[Computational Complexity](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr)” by **Sanjeev Arora** and **Boaz Barak**.
 
 Among the highlights, we will discuss Randomized Algorithms, Bounded-Space Algorithms, Savitch's Theorem, Immerman-Szelepcsényi's Theorem, the PCP Theorem and its connections to Hardness of Approximation, Interactive Proofs and IP = PSPACE, Hardness vs. Randomness, Pseudorandomness and Derandomization, Hardness Amplification, Introduction to Communication Complexity, Karchmer-Wigderson games, Circuit Complexity, Hardness within P.
 
-**General Information:**
+## General Information:
 
-**Time and Place:**Tuesday, Thursday 2:00-3:30 PM (via Zoom)
+**Time and Place:** Tuesday, Thursday, 2:00-3:30 PM (via Zoom)
 
-**Instructor:**[Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org%2F&sa=D&sntz=1&usg=AOvVaw1_ca4aFO3SN8SmWhTCFqSc), atal "at" berkeley.edu
+**Instructor:** [Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org%2F&sa=D&sntz=1&usg=AOvVaw1_ca4aFO3SN8SmWhTCFqSc), atal "at" berkeley.edu
 
-**Office Hours:**Monday 4:00-5:00 PM
+**Office Hours:** Monday 4:00-5:00 PM
 
-**TA:**[Nagaganesh Jaladanki](https://www.google.com/url?q=https%3A%2F%2Fnagaganesh.com&sa=D&sntz=1&usg=AOvVaw2ILpckbk4XWJfh9JMk9RGM), nagaganesh "at" berkeley.edu
+**TA:** [Nagaganesh Jaladanki](https://www.google.com/url?q=https%3A%2F%2Fnagaganesh.com&sa=D&sntz=1&usg=AOvVaw2ILpckbk4XWJfh9JMk9RGM), nagaganesh "at" berkeley.edu
 
-**Grading:**Homework assignments - 50% (5 assignments), scribe - mandatory + replaces the lowest-grade hw assignment, Final Project & Presentation - 50%. Participation in class - extra credit.
+**Grading:** Homework assignments - 50% (5 assignments), scribe - mandatory + replaces the lowest-grade hw assignment, Final Project & Presentation - 50%. Participation in class - extra credit.
 
 **Prereqs:** CS170 or equivalent is required. CS172 or equivalent is recommended.
 
 **Pre-Reading:**
 
-For those of you that want a refresher on the general setting, or those that haven't took 172, please see Chapter 3 in Sipser's book ("**Introduction to the Theory Of Computation**" by **Michael Sipser**) or chapters 1 & 2[**Arora-Barak.**](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr)
+For those of you that want a refresher on the general setting, or those who haven't taken 172, please see Chapter 3 in Sipser's book ("**Introduction to the Theory of Computation**" by **Michael Sipser**) or chapters 1 & 2 [**Arora-Barak.**](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr)
 
 **Textbooks & Lecture Notes:**
 
@@ -37,7 +37,7 @@ For those of you that want a refresher on the general setting, or those that hav
 
 [Gradescope](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F242906&sa=D&sntz=1&usg=AOvVaw18OauiCpkMxY7XfZ0Bgd4M)
 
-**Problem Sets:**
+## Problem Sets:
 
 - [Homework 1](https://drive.google.com/open?id=1KO3nmX0AmXOEiW8XMXxZ5UCgcUyhQ4TP) \- Due Thursday, Feb 11.
 
@@ -46,7 +46,9 @@ For those of you that want a refresher on the general setting, or those that hav
 - [Homework 3](https://drive.google.com/open?id=1NQYTyLTnpZub9w2EpW47cbG81y5bRMoi) \- Due Thursday, Mar 18.
 
 - [Homework 4](https://drive.google.com/open?id=1naoQEjgq9-Fg53vYO-S0u6O_oQmu_XKO) \- Due Friday, Apr 16.
-**Topics:**
+
+
+## Topics:
 
 **Time-Complexity (Chapter 3 AB)**
 
@@ -105,6 +107,8 @@ IP = PSPACE
 **Communication Complexity -**KW Games, Lower Bounds on Randomized Communication Complexity
 
 **Hardness within P**
+
+## Resources
 
 [**Scribe Notes**](https://drive.google.com/open?id=1Yy1tb_Dj4g63LtnzK38pT0XYJiI-Vtxw)
 
