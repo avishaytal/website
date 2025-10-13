@@ -113,7 +113,7 @@ CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complex
 
 - [Lijie Chen](https://www.mit.edu/~lijieche/) \- Miller Fellow (now Faculty at UC Berkeley)
 
-### Short Bio: 
+### Short Bio
 
 I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
 
