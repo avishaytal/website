@@ -1,12 +1,12 @@
 # CS 278 Computational Complexity Theory (Spring 2024)
 
-Course Description
+## Course Description
 
 Computational Complexity studies the power and limitations of efficient computation. What can be computed with bounded resources such as time, memory, randomness, communication, and parallel cores? In this course, we will explore these beautiful questions. While most of them are widely open (e.g., Is verifying easier than proving? Is parallelism always helpful? Does randomness help in computation?), we will see many surprising connections between them. The course will be based on selected chapters from the book “ [Computational Complexity](http://theory.cs.princeton.edu/complexity/)” by Sanjeev Arora and Boaz Barak.
 
 Among the highlights, we will discuss Randomized Algorithms, Bounded-Space Algorithms, Savitch's Theorem, Immerman-Szelepcsényi's Theorem, the PCP Theorem and its connections to Hardness of Approximation, Interactive Proofs and IP = PSPACE, Hardness vs. Randomness, Pseudorandomness and Derandomization, Hardness Amplification, Introduction to Communication Complexity, Karchmer-Wigderson games, Circuit Complexity, Hardness within P.
 
-General Information
+## General Information
 
 Time and Place: Tuesday, Thursday 2:00 - 3:30 PM, Soda 405.
 
@@ -30,7 +30,7 @@ Textbooks & Lecture Notes:
 
 - Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://eccc.hpi-web.de/resources/pdf/cohen.pdf)
 
-[Problem Sets](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=sharing)
+## [Problem Sets](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=sharing)
 
 - [HW1](https://drive.google.com/file/d/1yNeSPiWIEuEtMyXHHHvMAx1ABNj9tH7L/view?usp=sharing) \-\- Due Feb 12
 
@@ -42,7 +42,7 @@ Textbooks & Lecture Notes:
 
 [Lecture Notes](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=share_link)
 
-Topics
+## Topics
 
 - Time-Complexity (Chapter 3 AB)
 
