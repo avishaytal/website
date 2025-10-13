@@ -4,25 +4,29 @@
 
 ## Course Staff
 
-Instructor: [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
+- **Instructor:** [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
 
 Lectures: Tue/Thu 12:30-2:00 p.m. at 110 - Social Sciences Building.
 
 Office Hours: Tue 2:30-3:30 p.m. (Soda 635) or coordinate via email.
 
-GSI: Yi-Nuo Zhang (yinuo "at" berkeley.edu)
+- **GSI:** Yi-Nuo Zhang (yinuo "at" berkeley.edu)
 
 DiscussionSections: Wed 6:00P-6:59P - 220 - Wheeler
 
 Office Hours: Fri 3-4 p.m. at Soda 617.
 
-UGSI:  Kyle Fenimore(kyle.fenimore "at" berkeley.edu)
+- **UGSI:**  Kyle Fenimore(kyle.fenimore "at" berkeley.edu)
 
 DiscussionSections: Wed 12-1 p.m. \- Soda 310.
 
 Office Hours: Mon, 11a.m.-noon, Soda 411.
 
-Reader: Qinggao Hong (qinggao.hong "at" berkeley.edu)
+- **Readers:**
+
+  Qinggao Hong (qinggao.hong "at" berkeley.edu)
+
+  Carl Sun (carlsxh "at" berkeley.edu)
 
 ## [Ed Discussions](https://edstem.org/us/courses/84973)
 
