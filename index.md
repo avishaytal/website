@@ -4,7 +4,6 @@ title: "avishay tal"
 ---
 
 ---
-url: "/avishay-tal/"
 title: "Avishay Tal"
 ---
 # Avishay Tal

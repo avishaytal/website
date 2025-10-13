@@ -4,7 +4,6 @@ title: "cs172 Fall24_course policies and information fall 2024"
 ---
 
 ---
-url: "/cs172-Fall24//course-policies-and-information-fall-2024"
 title: "Avishay Tal - Course Policies and Information (Fall 2024)"
 ---
 

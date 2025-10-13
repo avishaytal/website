@@ -4,7 +4,6 @@ title: "cs 278 complexity theory"
 ---
 
 ---
-url: "/cs-278-complexity-theory/"
 title: "Avishay Tal - CS 278 Computational Complexity Theory"
 ---
 

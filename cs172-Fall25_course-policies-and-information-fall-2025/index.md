@@ -4,7 +4,6 @@ title: "cs172 Fall25_course policies and information fall 2025"
 ---
 
 ---
-url: "/cs172-Fall25/course-policies-and-information-fall-2025/"
 title: "Avishay Tal - Course Policies and Information (Fall 2025)"
 ---
 

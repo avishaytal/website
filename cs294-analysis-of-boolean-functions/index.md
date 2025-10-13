@@ -4,7 +4,6 @@ title: "cs294 analysis of boolean functions"
 ---
 
 ---
-url: "/cs294-analysis-of-boolean-functions/"
 title: "Avishay Tal - CS 294-92: Analysis of Boolean Functions"
 ---
 

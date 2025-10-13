@@ -4,7 +4,6 @@ title: "cs 172 computability and complexity_course policies and information spri
 ---
 
 ---
-url: "/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/"
 title: "Avishay Tal - Course Policies and Information (Spring 2022)"
 ---
 

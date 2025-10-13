@@ -4,7 +4,6 @@ title: "stoc 2020 workshop derandomizing space bounded computation"
 ---
 
 ---
-url: "/stoc-2020-workshop-derandomizing-space-bounded-computation/"
 title: "Avishay Tal - STOC 2020 Workshop: Derandomizing Space-Bounded Computation"
 ---
 

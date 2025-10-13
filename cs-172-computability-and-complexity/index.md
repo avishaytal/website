@@ -4,7 +4,6 @@ title: "cs 172 computability and complexity"
 ---
 
 ---
-url: "/cs-172-computability-and-complexity/"
 title: "Avishay Tal - CS 172 Computability and Complexity"
 ---
 

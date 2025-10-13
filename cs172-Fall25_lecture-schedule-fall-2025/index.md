@@ -4,7 +4,6 @@ title: "cs172 Fall25_lecture schedule fall 2025"
 ---
 
 ---
-url: "/cs172-Fall25/lecture-schedule-fall-2025/"
 title: "Avishay Tal - Lecture Schedule Fall 2025"
 ---
 

@@ -4,7 +4,6 @@ title: "cs172 Fall25"
 ---
 
 ---
-url: "/cs172-Fall25/"
 title: "Avishay Tal - CS 172 Computability and Complexity (Fall 2025)"
 ---
 

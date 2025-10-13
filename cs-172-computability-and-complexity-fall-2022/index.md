@@ -4,7 +4,6 @@ title: "cs 172 computability and complexity fall 2022"
 ---
 
 ---
-url: "/cs-172-computability-and-complexity-fall-2022/"
 title: "Avishay Tal - CS 172 Computability and Complexity (Fall 2022)"
 ---
 

@@ -4,7 +4,6 @@ title: "pseudorandomness"
 ---
 
 ---
-url: "/pseudorandomness/"
 title: "Avishay Tal - CS 294-202 Pseudorandomness"
 ---
 

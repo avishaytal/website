@@ -4,7 +4,6 @@ title: "cs 294 92 analysis of boolean functions spring 2025"
 ---
 
 ---
-url: "/cs-294-92-analysis-of-boolean-functions-spring-2025/"
 title: "Avishay Tal - CS 294-92: Analysis of Boolean Functions (Spring 2025)"
 ---
 
