@@ -40,7 +40,7 @@ E-mail: atal "at" berkeley.edu
 
 ## Events
 
-Workshop on [Derandomizing Space-Bounded Computation](./stoc-2020-workshop-derandomizing-space-bounded-computation/) (Part of STOC 2020)
+Workshop on [Derandomizing Space-Bounded Computation](/workshops/stoc-2020/) (Part of STOC 2020)
 
 [Advances in Boolean Function Analysis Lecture Series](https://simons.berkeley.edu/events/boolean) @ The Simons Institute (Summer 2020)
 
@@ -48,29 +48,29 @@ Program on [Analysis and TCS : New Frontiers](https://simons.berkeley.edu/progra
 
 ## Teaching {#teaching}
 
-CS 294-92 - [Analysis of Boolean Functions](./cs-294-92-analysis-of-boolean-functions-spring-2020/) \- Spring 2020
+CS 294-92 - [Analysis of Boolean Functions](/courses/cs294-analysis-of-boolean-functions/spring-2020/) \- Spring 2020
 
 CS 170 - [Efficient Algorithms and Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/fa20/) \- Fall 2020
 
-CS 278 - [Computational Complexity Theory](./cs-278-complexity-theory/) \- Spring 2021
+CS 278 - [Computational Complexity Theory](/courses/cs278-complexity-theory/) \- Spring 2021
 
-CS 294-202 - [Pseudorandomness](./pseudorandomness/) \- Fall 2021
+CS 294-202 - [Pseudorandomness](/courses/pseudorandomness/) \- Fall 2021
 
-CS 172 - [Computability and Complexity](./cs-172-computability-and-complexity/) \- Spring 2022
+CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complexity/) \- Spring 2022
 
-CS 172 - [Computability and Complexity](./cs-172-computability-and-complexity-fall-2022/) \- Fall 2022
+CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complexity/fall-2022/) \- Fall 2022
 
-CS 294-92 - [Analysis of Boolean Functions](./cs294-analysis-of-boolean-functions/) \- Spring 2023
+CS 294-92 - [Analysis of Boolean Functions](/courses/cs294-analysis-of-boolean-functions/spring-2023/) \- Spring 2023
 
 CS 70 - [Discrete Mathematics and Probability Theory](https://www.eecs70.org/) \- Fall 2023
 
-CS 278 - [Computational Complexity Theory](./cs-278-computational-complexity-theory-spring-2024/) \- Spring 2024
+CS 278 - [Computational Complexity Theory](/courses/cs278-complexity-theory/spring-2024/) \- Spring 2024
 
-CS 172 - [Computability and Complexity](./cs172-Fall24/) \- Fall 2024
+CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complexity/fall-2024/) \- Fall 2024
 
-CS 294-92 - [Analysis of Boolean Functions](./cs-294-92-analysis-of-boolean-functions-spring-2025/) \- Spring 2025
+CS 294-92 - [Analysis of Boolean Functions](/courses/cs294-analysis-of-boolean-functions/spring-2025/) \- Spring 2025
 
-CS 172 - [Computability and Complexity](./cs172-Fall25/) \- Fall 2025
+CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complexity/fall-2025/) \- Fall 2025
 
 ## Program Committees
 
