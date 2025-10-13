@@ -34,7 +34,7 @@ title: "Avishay Tal"
 
 Hi, I'm Avishay, an Associate Professor at the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley. I am honored to be part of Berkeley's [Theory Group](http://theory.cs.berkeley.edu/).
 
-## [Copy heading link](/avishay-tal/\#h.abucxgftu8fh)    Main Research Interests
+## Main Research Interests
 
 - Computational Complexity,
 
@@ -64,13 +64,13 @@ Motivating questions that guide my research:
 
 - For which tasks do quantum algorithms outperform classical algorithms?
 
-## [Copy heading link](/avishay-tal/\#h.kpmqp4c3xtf5)    Contact Information
+## Contact Information
 
 Office:635 Soda Hall, Department of Electrical Engineering and Computer Sciences, UC Berkeley. Berkeley, CA, 94720
 
 E-mail: atal "at" berkeley.edu
 
-## [Copy heading link](/avishay-tal/\#h.42glmif1dx9)    Events
+## Events
 
 Workshop on [Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derandomizing-space-bounded-computation/) (Part of STOC 2020)
 
@@ -78,7 +78,7 @@ Workshop on [Derandomizing Space-Bounded Computation](/stoc-2020-workshop-derand
 
 Program on [Analysis and TCS : New Frontiers](https://simons.berkeley.edu/programs/TCS2023) @ The Simons Institute (Summer 2023) -- and its [reunion](https://simons.berkeley.edu/workshops/analysis-tcs-reunion) (July 2024)
 
-## [Copy heading link](/avishay-tal/\#h.yjgzw43p0cyt)    Teaching
+## Teaching
 
 CS 294-92 - [Analysis of Boolean Functions](/cs-294-92-analysis-of-boolean-functions-spring-2020/) \- Spring 2020
 
@@ -104,11 +104,11 @@ CS 294-92 - [Analysis of Boolean Functions](/cs-294-92-analysis-of-boolean-funct
 
 CS 172 - [Computability and Complexity](/cs172-Fall25/) \- Fall 2025
 
-## [Copy heading link](/avishay-tal/\#h.e31pslhuhbzv)    Program Committees
+## Program Committees
 
 [FOCS 2019](http://focs2019.cs.jhu.edu/),  [SODA 2020](https://www.siam.org/conferences/cm/conference/soda20),  [CCC 2020](https://www.computationalcomplexity.org/Archive/2020/cfp.php),  [RANDOM 2020](https://randomconference.com/random-2020-home/),  [ITCS 2021](http://itcs-conf.org/),  [STOC 2021](http://acm-stoc.org/stoc2021/), [ITCS 2023](http://itcs-conf.org/itcs23/itcs23-cfp.html), [STOC 2024](http://acm-stoc.org/stoc2024/), [ITCS 2025](http://itcs-conf.org/itcs25/itcs25-cfp.html), [CCC 2025](https://computationalcomplexity.org/Archive/2025/cfp.html), [FOCS 2025](https://focs.computer.org/2025/)
 
-## [Copy heading link](/avishay-tal/\#h.2a554vkl4ghf)    Group Information
+## Group Information
 
 Current Ph.D. Students
 
@@ -143,9 +143,9 @@ Former Postdocs
 - [Lijie Chen](https://www.mit.edu/~lijieche/) \- Miller Fellow
 
 
-Short Bio:I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
+Short Bio: I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
 
-## [Copy heading link](/avishay-tal/\#h.9pjov06tw5hx)    Publications
+## Publications
 
 01. Quantum Computable One-Way Functions without One-Way Functions
 
