@@ -6,21 +6,21 @@
 
 - **Instructor:** [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
 
-Lectures: Tue/Thu 12:30-2:00 p.m. at 110 - Social Sciences Building.
+  Lectures: Tue/Thu 12:30P-2P at 110 - Social Sciences Building.
 
-Office Hours: Tue 2:30-3:30 p.m. (Soda 635) or coordinate via email.
+  Office Hours: Thu 11A-noon, (Soda 635) or coordinate via email.
 
 - **GSI:** Yi-Nuo Zhang (yinuo "at" berkeley.edu)
 
-DiscussionSections: Wed 6:00P-6:59P - 220 - Wheeler
+    Discussion Sections: Wed 6P-7P - 220 - Wheeler
 
-Office Hours: Fri 3-4 p.m. at Soda 617.
+  Office Hours: Fri 3P-4P  at Soda 617.
 
 - **UGSI:**  Kyle Fenimore(kyle.fenimore "at" berkeley.edu)
 
-DiscussionSections: Wed 12-1 p.m. \- Soda 310.
+  Discussion Sections: Wed 12P-1P - Soda 310.
 
-Office Hours: Mon, 11a.m.-noon, Soda 411.
+  Office Hours: Mon, 11A-noon, Soda 411.
 
 - **Readers:**
 
