@@ -1,1 +1,93 @@
-<!doctype html><html><head><meta charset="utf-8"><title>{{ page.title }}</title></head><body><main>{{ content }}</main></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    
+    <!-- SEO -->
+    {% seo %}
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <div class="nav-brand">
+                <a href="{{ '/' | relative_url }}" class="brand-link">
+                    <span class="brand-name">{{ site.author.name }}</span>
+                    <span class="brand-title">UC Berkeley EECS</span>
+                </a>
+            </div>
+            <div class="nav-menu" id="nav-menu">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ '/research/' | relative_url }}" class="nav-link {% if page.url contains '/research' %}active{% endif %}">Research</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ '/teaching/' | relative_url }}" class="nav-link {% if page.url contains '/teaching' %}active{% endif %}">Teaching</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ '/publications/' | relative_url }}" class="nav-link {% if page.url contains '/publications' %}active{% endif %}">Publications</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ '/students/' | relative_url }}" class="nav-link {% if page.url contains '/students' %}active{% endif %}">Students</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ '/contact/' | relative_url }}" class="nav-link {% if page.url contains '/contact' %}active{% endif %}">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="nav-toggle" id="nav-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>{{ site.author.name }}</h3>
+                    <p>{{ site.author.bio }}</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p><i class="fas fa-envelope"></i> {{ site.author.email }}</p>
+                    <p><i class="fas fa-map-marker-alt"></i> {{ site.author.office }}</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="https://eecs.berkeley.edu/">UC Berkeley EECS</a></li>
+                        <li><a href="https://theory.cs.berkeley.edu/">Berkeley Theory Group</a></li>
+                        <li><a href="https://www.berkeley.edu/">UC Berkeley</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

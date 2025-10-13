@@ -1,0 +1,719 @@
+/* Modern Academic Website Styles */
+
+/* CSS Variables */
+:root {
+    --primary-color: #1a365d;
+    --secondary-color: #2d3748;
+    --accent-color: #3182ce;
+    --text-color: #2d3748;
+    --text-light: #718096;
+    --bg-color: #ffffff;
+    --bg-light: #f7fafc;
+    --border-color: #e2e8f0;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    --border-radius: 8px;
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+.header {
+    background: var(--bg-color);
+    border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.95);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.nav-brand .brand-link {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.brand-name {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.brand-title {
+    display: block;
+    font-size: 0.875rem;
+    color: var(--text-light);
+    font-weight: 400;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: var(--border-radius);
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: var(--accent-color);
+    background-color: var(--bg-light);
+}
+
+.nav-toggle {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--text-color);
+}
+
+/* Main Content */
+.main {
+    min-height: calc(100vh - 200px);
+    padding: 2rem 0;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+    opacity: 0.9;
+}
+
+.hero-description {
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+    opacity: 0.8;
+    line-height: 1.6;
+}
+
+.hero-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: var(--border-radius);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: white;
+    color: var(--primary-color);
+    border-color: white;
+}
+
+.btn-primary:hover {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+
+.btn-secondary:hover {
+    background-color: white;
+    color: var(--primary-color);
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.btn-outline:hover {
+    background-color: var(--accent-color);
+    color: white;
+}
+
+/* Sections */
+.section {
+    margin-bottom: 3rem;
+}
+
+.content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+}
+
+p {
+    margin-bottom: 1rem;
+    line-height: 1.7;
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+/* Code */
+code {
+    font-family: var(--font-mono);
+    background-color: var(--bg-light);
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+}
+
+pre {
+    background-color: var(--bg-light);
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    overflow-x: auto;
+    margin-bottom: 1rem;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+/* Cards */
+.card {
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: var(--shadow-lg);
+}
+
+.card-header {
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+/* Publication Styles */
+.publication {
+    border-left: 4px solid var(--accent-color);
+    padding-left: 1rem;
+    margin-bottom: 1.5rem;
+    background: var(--bg-light);
+    padding: 1rem;
+    border-radius: 0 var(--border-radius) var(--border-radius) 0;
+}
+
+.publication-title {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.publication-authors {
+    color: var(--text-light);
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.publication-venue {
+    color: var(--secondary-color);
+    font-weight: 500;
+}
+
+/* Contact Info */
+.contact-info {
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    border-left: 4px solid var(--accent-color);
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.contact-item i {
+    width: 20px;
+    margin-right: 0.5rem;
+    color: var(--accent-color);
+}
+
+/* Research Interests */
+.research-interests {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.research-item {
+    background: var(--bg-light);
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    border-left: 4px solid var(--accent-color);
+}
+
+/* Footer */
+.footer {
+    background: var(--primary-color);
+    color: white;
+    padding: 2rem 0 1rem;
+    margin-top: 3rem;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.footer-section h3,
+.footer-section h4 {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.footer-section p {
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 0.5rem;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-links a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: white;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    padding-top: 1rem;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: var(--bg-color);
+        border-top: 1px solid var(--border-color);
+        padding: 1rem;
+        transform: translateY(-100%);
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .nav-menu.active {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .nav-list {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .nav-toggle {
+        display: block;
+    }
+
+    .container {
+        padding: 0 15px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .research-interests {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
+
+/* Clean up scraped content styling */
+/* Hide Google Sites navigation elements */
+.main-content > p:first-of-type,
+.main-content > p:nth-of-type(2),
+.main-content > p:nth-of-type(3),
+.main-content > p:nth-of-type(4),
+.main-content > p:nth-of-type(5) {
+    display: none;
+}
+
+/* Style the main heading */
+.main-content h1:first-of-type {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid var(--accent-color);
+}
+
+/* Style section headings */
+.main-content h2 {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    margin: 3rem 0 1.5rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+/* Clean up the "Copy heading link" text */
+.main-content h2 a[href*="Copy heading link"] {
+    display: none;
+}
+
+/* Style research interests list */
+.main-content ul:first-of-type {
+    background: var(--bg-light);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    margin: 2rem 0;
+}
+
+.main-content ul:first-of-type li {
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+}
+
+/* Style publications */
+.main-content h2:contains("Publications") + * {
+    background: white;
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+/* Style contact information */
+.main-content h2:contains("Contact Information") + * {
+    background: var(--bg-light);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    font-size: 1.1rem;
+}
+
+/* Style teaching section */
+.main-content h2:contains("Teaching") + * {
+    background: white;
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+/* Style program committees */
+.main-content h2:contains("Program Committees") + * {
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+}
+
+/* Style group information */
+.main-content h2:contains("Group Information") + * {
+    background: white;
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+/* Style short bio */
+.main-content h2:contains("Short Bio") + * {
+    background: var(--bg-light);
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+/* Hide Google Sites footer elements */
+.main-content img[src*="googleusercontent"],
+.main-content p:contains("Page updated"),
+.main-content p:contains("Google Sites"),
+.main-content p:contains("Report abuse"),
+.main-content p:contains("Back to site") {
+    display: none;
+}
+
+/* Style numbered publications */
+.main-content p:contains("01."),
+.main-content p:contains("02."),
+.main-content p:contains("03."),
+.main-content p:contains("04."),
+.main-content p:contains("05."),
+.main-content p:contains("06."),
+.main-content p:contains("07."),
+.main-content p:contains("08."),
+.main-content p:contains("09."),
+.main-content p:contains("10.") {
+    background: white;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    border-left: 4px solid var(--accent-color);
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+/* Style publication details */
+.main-content p:contains("[PDF]") {
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+}
+
+.main-content p:contains("joint with") {
+    font-style: italic;
+    color: var(--text-light);
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+}
+
+.main-content p:contains("STOC"),
+.main-content p:contains("FOCS"),
+.main-content p:contains("CCC"),
+.main-content p:contains("ITCS"),
+.main-content p:contains("QIP"),
+.main-content p:contains("ICALP"),
+.main-content p:contains("RANDOM"),
+.main-content p:contains("SODA"),
+.main-content p:contains("DISC"),
+.main-content p:contains("CJTCS"),
+.main-content p:contains("SICOMP"),
+.main-content p:contains("JACM"),
+.main-content p:contains("Combinatorica"),
+.main-content p:contains("Information Processing Letters"),
+.main-content p:contains("Computational Complexity"),
+.main-content p:contains("Book chapter") {
+    color: var(--accent-color);
+    font-weight: 600;
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+}
+
+/* Style current and former students */
+.main-content p:contains("Current Ph.D. Students"),
+.main-content p:contains("Former Students"),
+.main-content p:contains("Former Postdocs") {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin: 2rem 0 1rem 0;
+    font-size: 1.2rem;
+}
+
+/* Style student lists */
+.main-content ul:contains("Zoë Bell"),
+.main-content ul:contains("Xin Lyu"),
+.main-content ul:contains("Hongxun Wu") {
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    margin: 1rem 0;
+}
+
+/* Style events section */
+.main-content h2:contains("Events") + * {
+    background: white;
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+/* Style motivating questions */
+.main-content p:contains("Motivating questions") {
+    font-weight: 600;
+    color: var(--primary-color);
+    margin: 2rem 0 1rem 0;
+    font-size: 1.1rem;
+}
+
+/* Style the second research interests list */
+.main-content ul:nth-of-type(2) {
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    margin: 1rem 0;
+}
+
+/* Hide the duplicate navigation links at the top */
+.main-content > p:contains("[Avishay Tal]") {
+    display: none;
+}
+
+.main-content > ul:first-of-type {
+    display: none;
+}
+
+/* Print Styles */
+@media print {
+    .header,
+    .footer,
+    .nav-toggle {
+        display: none;
+    }
+    
+    .main {
+        padding: 0;
+    }
+    
+    a {
+        color: var(--text-color);
+        text-decoration: none;
+    }
+}

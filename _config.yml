@@ -1,5 +1,71 @@
+# Site settings
 title: "Avishay Tal"
+description: "Associate Professor at UC Berkeley EECS - Computational Complexity, Boolean Functions, and Quantum Computing"
+url: "https://avishaytal.org"
 baseurl: ""
-url: ""
-theme: minima
+
+# Author settings
+author:
+  name: "Avishay Tal"
+  email: "atal@berkeley.edu"
+  office: "635 Soda Hall, Department of Electrical Engineering and Computer Sciences, UC Berkeley"
+  location: "Berkeley, CA, 94720"
+  bio: "Associate Professor at UC Berkeley EECS, specializing in computational complexity, analysis of Boolean functions, and quantum computing."
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
 permalink: pretty
+
+# Jekyll settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Theme settings
+theme: minima
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Students"
+    url: "/students/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

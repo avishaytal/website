@@ -8,23 +8,11 @@ url: "/avishay-tal/"
 title: "Avishay Tal"
 ---
 
-Search this site
-
-Embedded Files
-
-Skip to main content
-
-Skip to navigation
-
 [Avishay Tal](/avishay-tal/)
 
 - [Avishay Tal](/avishay-tal/)
 
 - [CS 172 Computability and Complexity (Fall 2025)](/cs172-Fall25/)
-
-
-
-
 
 - [Course Policies and Information (Fall 2025)](/cs172-Fall25/course-policies-and-information-fall-2025/)
 
@@ -474,12 +462,3 @@ Short Bio:I received my Ph.D. in 2015 from the Weizmann Institute of Science, un
      [\[Richard Lipton's Blog Post\]](https://rjlipton.wordpress.com/2010/11/19/is-complexity-theory-on-the-brink/) [\[2\]](https://rjlipton.wordpress.com/2011/01/05/fourier-complexity-of-cirtemmys-boolean-functions/)
 
 
-![](https://lh3.googleusercontent.com/sitesv/AICyYdba0hQSlXFNpLREbpCOcopEAB5v8x2G2bEkUwnkgYZzS4q6oMsuAWSDfV4r7q9WhGu6OJtRQOk2648iEsRrLCGPV__gQJDRk68IFwOjokqE7ckIvFMUkw94fhAdevSKsV5DxOAwMMCqY0hMsmeY2oSQhMRRrfgDQPAXqzAcsSTEbzIRGsQ6wq7PtIhph4MtmsC-M3G-2NWsY6ILrkfZCyEk7UX92K5M9wN7=w1280)
-
-Page updated
-
-Google Sites
-
-Report abuse
-
-Back to site
