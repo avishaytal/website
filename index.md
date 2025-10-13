@@ -81,7 +81,7 @@ CS 172 - [Computability and Complexity](/courses/cs172-computability-and-complex
 
 ## Group Information {#students}
 
-Current Ph.D. Students
+# Current Ph.D. Students
 
 - [Zoë Bell](https://sites.google.com/berkeley.edu/zoebell/) (co-advised with [Shafi Goldwasser](http://people.csail.mit.edu/shafi/))
 
@@ -92,7 +92,7 @@ Current Ph.D. Students
 - [Yichuan Wang](https://wyc908.github.io/) (co-advised with [Lijie Chen](https://chen-lijie.github.io/))
 
 
-Former Students
+# Former Students
 
 - [Michael Whitmeyer](https://mwhitmeyer.github.io/) \- M.Sc. - now PhD @ UW
 
@@ -104,8 +104,7 @@ Former Students
 
 - [Orr Paradise](http://people.eecs.berkeley.edu/~orrp/) \- PhD 2025 (co-advised with [Shafi Goldwasser](http://people.csail.mit.edu/shafi/)) \- now postdoc at EPFL.
 
-
-Former Postdocs
+# Former Postdocs
 
 - [William M. Hoza](https://williamhoza.com/tcs/) \- Simons-Berkeley postdoc (now Faculty at U Chicago)
 
@@ -113,7 +112,9 @@ Former Postdocs
 
 - [Lijie Chen](https://www.mit.edu/~lijieche/) \- Miller Fellow (now Faculty at UC Berkeley)
 
-*Short Bio*: I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
+# Short Bio: 
+
+I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
 
 ## Publications {#publications}
 
