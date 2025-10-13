@@ -46,7 +46,7 @@ Skip to navigation
 
 ## **Fall 2022**
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.70m7zrfq04ot)    **Course Staff**
+**Course Staff**
 
 **Instructor:**[Avishay Tal](/avishay-tal/) (_atal "at" berkeley.edu_)
 
@@ -64,19 +64,19 @@ Skip to navigation
 
 **Reader:**Dasheng Bi ( _dbi__"at" berkeley.edu_)
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.2yjvaw6rnvc)    **Ed****Discussions**
+**Ed****Discussions**
 
 [https://edstem.org/us/courses/26774/discussion/](https://www.google.com/url?q=https%3A%2F%2Fedstem.org%2Fus%2Fcourses%2F26774%2Fdiscussion%2F&sa=D&sntz=1&usg=AOvVaw2E5xa6w6OhyYhv6DgW5prd)
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.imxti7th5bk5)    **Gradescope**
+**Gradescope**
 
 [https://www.gradescope.com/courses/427330](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F427330&sa=D&sntz=1&usg=AOvVaw1qQ51NiZybwbydti5d4YOD)
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.jjci4buhtjgu)    [**Course Policies & Information**](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022)
+[**Course Policies & Information**](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022)
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.wgqgi8lezrs6)    [**Lecture Schedule**](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022)
+[**Lecture Schedule**](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022)
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.hknoq13g90ak)    [**Homeworks**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**(**[**link**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**to HW sources)**
+[**Homeworks**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**(**[**link**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**to HW sources)**
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1GVI-YqeiF0mJkVhEQUPfc2yjxK7dIMNm/view?usp=sharing)\- Released on Aug26, Due Sep2
 
@@ -101,7 +101,7 @@ Skip to navigation
 - Homework 11 - [PDF](https://drive.google.com/file/d/1e5nS_tmm2h6Iy-jf29QBfccFS0Fzo-9w/view?usp=share_link) \- Released on Nov 28. Not for Submission.
 
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022/\#h.yh70svqvze1q)    **Useful Resources:**
+**Useful Resources:**
 
 [Theory of Computation Online Lectures](https://www.google.com/url?q=https%3A%2F%2Fhackmd.io%2F2AqODdrtTOuj6fb5uMDZYw%3Fview&sa=D&sntz=1&usg=AOvVaw38EW_6-DuPxCSsBjGoTTAl)
 

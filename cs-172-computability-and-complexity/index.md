@@ -46,7 +46,7 @@ Skip to navigation
 
 ## **Spring 2022**
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.i3bffq41d14g)    **Course Staff**
+**Course Staff**
 
 **Instructor:**[Avishay Tal](/avishay-tal/) ( _atal "at" berkeley.edu_)
 
@@ -64,19 +64,19 @@ Skip to navigation
 
 **Office Hours:**Fri 2-3 PM (Soda 283H)
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.yqtlof63adjn)    **Piazza Forum**
+**Piazza Forum**
 
 [http://piazza.com/berkeley/spring2022/cs172](http://www.google.com/url?q=http%3A%2F%2Fpiazza.com%2Fberkeley%2Fspring2022%2Fcs172&sa=D&sntz=1&usg=AOvVaw3oBe4PaYOG1BK2p3sLurtL)
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.pyhqkdajk50h)    **Gradescope**
+**Gradescope**
 
 [https://www.gradescope.com/courses/352772](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F352772&sa=D&sntz=1&usg=AOvVaw2u-l6PAXDXl_FnVCOETiXK)
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.i57evdko4twj)    [**Course Policies & Information**](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/)
+[**Course Policies & Information**](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/)
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.oz0auhkcncj6)    [**Lecture Schedule**](/cs-172-computability-and-complexity/lecture-schedule-spring-2022/)
+[**Lecture Schedule**](/cs-172-computability-and-complexity/lecture-schedule-spring-2022/)
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.i1t2l2x3dksu)    [**Homeworks**](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
+[**Homeworks**](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1Ov3Q3bMaUj6Uz4Vw0QfRDSpGGRsCkTYy/view?usp=sharing), [TeX](https://drive.google.com/file/d/1V_VNLXW3U4X9H-Lh-Fwj_PhxDdS_Z7TQ/view?usp=sharing) \- Released Jan 21, Due Jan 28
 
@@ -101,7 +101,7 @@ Skip to navigation
 - Homework 11 - [PDF](https://drive.google.com/file/d/1NLs9VMRxplUSywEbjqvm-kUK4A33wX0p/view?usp=sharing), [TeX](https://drive.google.com/file/d/1z21BvqtpBoHyVknTDFsPEZ_-M_dNwpHt/view?usp=sharing) \- Released Apr 23, Due Apr 30
 
 
-## [Copy heading link](/cs-172-computability-and-complexity/\#h.8730dws7dkba)    **Discussion Handouts**
+**Discussion Handouts**
 
 - Discussion 1 - [PDF](https://drive.google.com/file/d/1v8rd-fQnfQYsOn7R6PAAK6_Yswqx0TLz/view?usp=sharing) \- For Jan 20, Posted Jan 23 - [Notes](https://drive.google.com/file/d/1wLZRApeXzumpCvM5359b0QMq-ZdBTnWc/view?usp=sharing)
 

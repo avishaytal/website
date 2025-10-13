@@ -44,7 +44,7 @@ Skip to navigation
 
 ## **Course Policies and Information**
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.6r3mk9m5onvb)    **Format**
+**Format**
 
 Lectures will be in-person at 306Soda Hall on Tuesdays and Thursdays 2:00-3:30 PM.
 
@@ -52,11 +52,11 @@ We strongly encourage you to attend lectures and to participate during lectures.
 
 Discussion sections will be in person on Wednesday 5-6 PM or 6-7 PM. Unless mentioned otherwise,the two discussion sections will cover the same material.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.h5m84axww36q)    **Prerequisites**
+**Prerequisites**
 
 CS170 (or equivalent) is a prerequisite to this course. In some cases, we will allow taking CS170 in parallel to CS172 -- please contact the instructor for approval in such a case.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.hs6lwpmfo8h6)    **Grading & Exams**
+**Grading & Exams**
 
 The final grade will be composed as follows:
 
@@ -69,7 +69,7 @@ The final grade will be composed as follows:
 - 35% final exam - Tue, **Dec****13**, 8:00A \- 11:00A, Exam Location TBD
 
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.s8vun3r137kv)    **Homework**
+**Homework**
 
 There will be **11 homework problem sets**. When calculating the homework average, we will **drop the bottom****2****grades**. We will not allow automatic slip days, but will allow a grace period of up to 2 hours for each submission. In case you are under special circumstances that require more time, please contact course staff, and we'll do our best to accommodate. Homework problems will usually be posted on Friday and due the following Friday at 5 PM. During the weeks preceding the two midterms, we will not hand out homework problems to allow you to study for the midterms.
 
@@ -77,15 +77,15 @@ We encourage you to start working on the homework early. We'll hold office hours
 
 Homework should be either typed (e.g., in Word or preferably in LaTeX) or written legibly and scanned. We'll provide a LaTex template that you can use.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.q8qk6ijc3usx)    **Textbook**
+**Textbook**
 
 The required textbook for the course is "Introduction to the Theory of Computation" by Michael Sipser. Most readings will be from the textbook, and the relevant chapters for each lecture will be mentioned on the [Lecture Schedule](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022) page.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.lw747omgtjbp)    **Office Hours**
+**Office Hours**
 
 The Instructor and GSI will hold weekly office hours. Office hours are a great opportunity to engage with course staff and ask questions about the material.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.l3v8vd43lx28)    **Collaboration**
+**Collaboration**
 
 The guiding principle for homework collaboration is that your writeup of the solutions should be yours only. You are encouraged to work together in small study groups, where it is fine to discuss the meaning of a problem and ways to solve it; however, you must always write up the solutions on your own. Similarly, you may use books and other sources to help solve homework problems, but you must write up the solution on your own and cite any sources you use.
 
@@ -93,11 +93,11 @@ You should be aware that copying or sharing solutions, in whole or in part, from
 
 If you’re ever in doubt about what constitutes academic dishonesty, please ask course staff or post on Ed.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.a6lmo16lbae1)    **Conflicts**
+**Conflicts**
 
 We do allow time conflicts, but not for exams.
 
-## [Copy heading link](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022\#h.1jaf33w4lal6)    **Climate & Incident Reporting**
+**Climate & Incident Reporting**
 
 The department is maintaining an [Incident Reporting Form](http://www.google.com/url?q=http%3A%2F%2Feecs.link%2Fclimate&sa=D&sntz=1&usg=AOvVaw1y6raCRdKMYV5Hkyujtgfo) that students can use if they feel unsafe, disrespected, or unwelcome. You are encouraged to use it if this applies to you (in this class or elsewhere on campus)
 

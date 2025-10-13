@@ -46,7 +46,7 @@ Skip to navigation
 
 ## Fall 2025
 
-## [Copy heading link](/cs172-Fall25/\#h.ylje03eoop2n)    Course Staff
+## Course Staff
 
 Instructor: [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
 
@@ -68,15 +68,15 @@ Office Hours: Mon, 11a.m.-noon, Soda 411.
 
 Reader: Qinggao Hong (qinggao.hong "at" berkeley.edu)
 
-## [Copy heading link](/cs172-Fall25/\#h.bhyds0kqhn5l)    [Ed Discussions](https://edstem.org/us/courses/84973)
+## [Ed Discussions](https://edstem.org/us/courses/84973)
 
-## [Copy heading link](/cs172-Fall25/\#h.uqlorcfp2034)    [Gradescope](https://www.gradescope.com/courses/1110614)
+## [Gradescope](https://www.gradescope.com/courses/1110614)
 
-## [Copy heading link](/cs172-Fall25/\#h.vuep57vi7v6q)    [Course's Policies & Information](/cs172-Fall25/course-policies-and-information-fall-2025/)
+## [Course's Policies & Information](/cs172-Fall25/course-policies-and-information-fall-2025/)
 
-## [Copy heading link](/cs172-Fall25/\#h.pda6nmjyhc0d)    [Lecture Schedule](/cs172-Fall25/lecture-schedule-fall-2025/)
+## [Lecture Schedule](/cs172-Fall25/lecture-schedule-fall-2025/)
 
-## [Copy heading link](/cs172-Fall25/\#h.a24uerdgh75d)    [Homeworks](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)
+## [Homeworks](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1v62W_Q-pu8Dvk33WUXKlR2kpngTj5yV4/view?usp=share_link) \- Released Aug 30, Due Sep 8
 
@@ -101,7 +101,7 @@ Reader: Qinggao Hong (qinggao.hong "at" berkeley.edu)
 - Homework 11
 
 
-## [Copy heading link](/cs172-Fall25/\#h.sa64unhksmb5)    Exams
+## Exams
 
 - Midterm 1: Oct 2, 7:00-9:00 PM
 
@@ -110,7 +110,7 @@ Reader: Qinggao Hong (qinggao.hong "at" berkeley.edu)
 - Final: Friday, Dec 19, 8:00-11:00AM
 
 
-## [Copy heading link](/cs172-Fall25/\#h.oxpkwox7f89v)    Useful Resources:
+## Useful Resources:
 
 [Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
 

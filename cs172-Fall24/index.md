@@ -46,7 +46,7 @@ Skip to navigation
 
 ## Fall 2024
 
-## [Copy heading link](/cs172-Fall24/\#h.21hulac9yrq)    Course Staff
+Course Staff
 
 Instructor: [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
 
@@ -72,15 +72,15 @@ HW Parties: Mon 4-5p Fri 3-4p (Wozniak Lounge - Soda 4th Floor)
 
 Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 
-## [Copy heading link](/cs172-Fall24/\#h.38mqj5t7fvfh)    [Ed Discussions](https://edstem.org/us/courses/65210)
+[Ed Discussions](https://edstem.org/us/courses/65210)
 
-## [Copy heading link](/cs172-Fall24/\#h.ld4hp2h9oi7h)    [Gradescope](https://www.gradescope.com/courses/859783/)
+[Gradescope](https://www.gradescope.com/courses/859783/)
 
-## [Copy heading link](/cs172-Fall24/\#h.x49o01nxz9d2)    [Course Policies & Information](/cs172-Fall24//course-policies-and-information-fall-2024)
+[Course Policies & Information](/cs172-Fall24//course-policies-and-information-fall-2024)
 
-## [Copy heading link](/cs172-Fall24/\#h.czmndhnqtoaq)    [Lecture Schedule](/cs172-Fall24//lecture-schedule-fall-2024)
+[Lecture Schedule](/cs172-Fall24//lecture-schedule-fall-2024)
 
-## [Copy heading link](/cs172-Fall24/\#h.sj7ylt1gjm9k)    [Homeworks](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
+[Homeworks](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1W2bkdRWcnmr4WiARwvhgKAYReb5ow5no/view?usp=share_link) \- Released Sep 3, Due Sep 9
 
@@ -103,7 +103,7 @@ Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 - Homework 10 - [PDF](https://drive.google.com/file/d/1raqSMq_4Ws1ywPyqmLOrjR8v_86XuaWj/view?usp=share_link) \- Released Nov 18, Due Nov 25
 
 
-## [Copy heading link](/cs172-Fall24/\#h.gqusfppci4tc)    Useful Resources:
+Useful Resources:
 
 [Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
 

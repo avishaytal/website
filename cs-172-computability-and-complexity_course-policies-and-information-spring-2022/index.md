@@ -44,7 +44,7 @@ Skip to navigation
 
 ## **Course Policies and Information**
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.53fdvk35jb4a)    **Format**
+**Format**
 
 Lectures will be via Zoom in the first couple of weeks (Jan 17-30) and then in-person at 126 Social Sciences Building on Tuesdays and Thursdays 5:00-6:30 PM.
 
@@ -52,11 +52,11 @@ Lecture recordings will be posted regularly.
 
 Discussion sections will be in person (except for the first couple of weeks). There will be two discussion sections every week, covering the same material.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.54pxos8a8qx1)    **Prerequisites**
+**Prerequisites**
 
 CS170 (or equivalent) is a prerequisite to this course. In some cases, we will allow taking CS170 in parallel to CS172 -- please contact the instructor for approval in such a case.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.m6k1m8s6z26m)    **Grading & Exams**
+**Grading & Exams**
 
 The final grade will be composed as follows:
 
@@ -69,7 +69,7 @@ The final grade will be composed as follows:
 - 35% final exam - Fri, **May 13**, 11:30AM - 2:30PM, Exam Location TBD
 
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.3fgw644wf09d)    **Homework**
+**Homework**
 
 There will be **11 homework problem sets**. When calculating the homework average, we will **drop the bottom two grades**. In addition, you have the option to use **1 slip day** once in the entire semester.
 
@@ -79,15 +79,15 @@ During the weeks preceding the two midterms, we will not hand out homework probl
 
 Homework should be either typed (e.g., in Word or preferably in LaTeX) or written legibly and scanned.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.6th2pfs83fes)    **Textbook**
+**Textbook**
 
 The required textbook for the course is "Introduction to the Theory of Computation" by Michael Sipser. Most readings will be from the textbook, and the relevant chapters for each lecture will be mentioned on the [Lecture Schedule](/cs-172-computability-and-complexity/lecture-schedule-spring-2022/) page.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.c8ogaiuu595u)    **Office Hours**
+**Office Hours**
 
 The Instructor, GSI and reader will hold weekly office hours. Office hours are a great opportunity to engage with course staff and ask questions about the material.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.5axupw3x9po6)    **Collaboration**
+**Collaboration**
 
 The guiding principle for homework collaboration is that your writeup of the solutions should be yours only. You are encouraged to work together in small study groups, where it is fine to discuss the meaning of a problem and ways to solve it; however, you must always write up the solutions on your own. Similarly, you may use books and other sources to help solve homework problems, but you must write up the solution on your own and cite any sources you use.
 
@@ -95,11 +95,11 @@ You should be aware that copying or sharing solutions, in whole or in part, from
 
 If you’re ever in doubt about what constitutes academic dishonesty, please ask course staff or post on Piazza.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.o28gsegp8jzu)    **Conflicts**
+**Conflicts**
 
 We do allow time conflicts, but not for exams.
 
-## [Copy heading link](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/\#h.jr9g8z5qmsd0)    **Climate & Incident Reporting**
+**Climate & Incident Reporting**
 
 The department is maintaining an [Incident Reporting Form](http://www.google.com/url?q=http%3A%2F%2Feecs.link%2Fclimate&sa=D&sntz=1&usg=AOvVaw1y6raCRdKMYV5Hkyujtgfo) that students can use if they feel unsafe, disrespected, or unwelcome. You are encouraged to use it if this applies to you (in this class or elsewhere on campus)
 

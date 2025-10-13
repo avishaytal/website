@@ -594,10 +594,6 @@ pre code {
     border-bottom: 2px solid var(--border-color);
 }
 
-/* Clean up the "Copy heading link" text */
-.main-content h2 a[href*="Copy heading link"] {
-    display: none;
-}
 
 /* Style research interests list */
 .main-content ul:first-of-type {

@@ -44,7 +44,7 @@ Skip to navigation
 
 # CS 294-92: Analysis of Boolean Functions (Spring 2025)
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.owdcdfosxv1f)    Description:
+Description:
 
 Boolean functions are central objects of study in theoretical computer science and combinatorics. Analysis of Boolean functions, and in particular Fourier analysis, has been a successful tool in the areas of circuit lower bounds, hardness of approximation, social choice, threshold phenomena, pseudo-randomness, property testing, learning theory, cryptography, quantum computing, query complexity, and others.
 
@@ -54,13 +54,13 @@ We will study these foundational concepts of Boolean function and their applicat
 
 Undergraduate students who wish to take this class in Spring 2025 should fill out the following [Google Form](https://docs.google.com/forms/d/1uaDS2HvxL2VzeLzzcdJ5PG6p80VAQ3xc2RukiJa-G_g/edit).
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.wdz59p6z3ot8)    Textbook:
+Textbook:
 
 The course will be mainly based on the wonderful book by Ryan O'Donnell. The book is available for free download via this [link](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf), or available for purchase on Amazon.
 
 In addition, we will highlight some recent exciting results that are not covered in the book.
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.e7h5bs2bvuyf)    General Information:
+General Information:
 
 Semester: Spring 2025
 
@@ -72,7 +72,7 @@ Office Hours: Tuesday 1:30-2:30 pm @ 635 Soda.
 
 Grading: Homework - 40% (4 assignments), Lecture Scribe - 10%, Final Project & Presentation - 50%.
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.c1zhk5i03y0m)    Problem Sets:
+Problem Sets:
 
 - [HW1](https://drive.google.com/file/d/1vagVVeNmklI9zUcbTc1gurRNIaHDB7uO/view?usp=share_link) \-\- Due Monday, Feb 10.
 
@@ -87,7 +87,7 @@ Grading: Homework - 40% (4 assignments), Lecture Scribe - 10%, Final Project & P
 
 HW submissions on [Gradescope](https://www.gradescope.com/courses/980320)
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.dxf48mdmimd2)    Lectures Schedule (tentative):
+Lectures Schedule (tentative):
 
 For each lecture - please take a look at the relevant chapters in O'Donnell's book & additional resources  & lecture notes.
 
@@ -153,7 +153,7 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 
 RRR Week: More Presentations
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.64q7cffsegbl)    Resources and Other Courses:
+Resources and Other Courses:
 
 - [Spring 2020 version of this course](/cs-294-92-analysis-of-boolean-functions-spring-2020/)
 
@@ -186,7 +186,7 @@ Videos about Fourier concentration and random restriction-based PRGs:
 
 [Fourier tails for Boolean functions and their applications](https://www.youtube.com/watch?v=FmisseepEys)
 
-## [Copy heading link](/cs-294-92-analysis-of-boolean-functions-spring-2025/\#h.5e9xj23jrlua)    Other Courses:
+Other Courses:
 
 [Dor Minzer - MIT](https://sites.google.com/view/dorminzer/teaching?authuser=0)(2021)
 
