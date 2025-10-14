@@ -5,7 +5,12 @@ title: Home
 
 # Avishay Tal
 
-Hi, I'm Avishay, an Associate Professor at the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley. I am honored to be part of Berkeley's [Theory Group](http://theory.cs.berkeley.edu/).
+<div class="profile-section">
+    <img src="{{ '/assets/images/avishay-tal.jpg' | relative_url }}" alt="Avishay Tal" class="profile-image">
+    <div class="profile-text">
+        <p>Hi, I'm Avishay, an Associate Professor at the [Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) at UC Berkeley. I am honored to be part of Berkeley's [Theory Group](http://theory.cs.berkeley.edu/).</p>
+    </div>
+</div>
 
 ## Main Research Interests {#research}
 
