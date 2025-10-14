@@ -21,10 +21,10 @@ highlighter: rouge
 permalink: pretty
 
 # Jekyll settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
 
 # Theme settings
 # theme: minima  # Disabled to use custom layouts
