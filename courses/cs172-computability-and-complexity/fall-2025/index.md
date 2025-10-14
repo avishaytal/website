@@ -28,15 +28,17 @@
 
   Carl Sun (carlsxh "at" berkeley.edu)
 
-## [Ed Discussions](https://edstem.org/us/courses/84973)
+**[Ed Discussions](https://edstem.org/us/courses/84973)**
 
-## [Gradescope](https://www.gradescope.com/courses/1110614)
+**[Gradescope](https://www.gradescope.com/courses/1110614)**
 
-## [Course's Policies & Information](/cs172-Fall25/course-policies-and-information-fall-2025/)
+**[Course's Policies & Information](/cs172-Fall25/course-policies-and-information-fall-2025/)**
 
-## [Lecture Schedule](/cs172-Fall25/lecture-schedule-fall-2025/)
+**[Lecture Schedule](/cs172-Fall25/lecture-schedule-fall-2025/)**
 
-## [Homeworks](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)
+## Homeworks
+
+**[Google Drive](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)**
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1v62W_Q-pu8Dvk33WUXKlR2kpngTj5yV4/view?usp=share_link) \- Released Aug 30, Due Sep 8
 
@@ -59,6 +61,7 @@
 - Homework 10
 
 - Homework 11
+  
 ## Exams
 
 - Midterm 1: Oct 2, 7:00-9:00 PM
@@ -66,18 +69,19 @@
 - Midterm 2: Nov 4, 7:00-9:00 PM
 
 - Final: Friday, Dec 19, 8:00-11:00AM
+  
 ## Useful Resources:
 
-[Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
+- [Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
 
-[Mathematics and Computation - Avi Wigderson](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
+- [Mathematics and Computation - Avi Wigderson](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 
-[Finite State Machine Designer](https://madebyevan.com/fsm/)
+- [Finite State Machine Designer](https://madebyevan.com/fsm/)
 
-[Course Website - Fall 2024](/cs172-Fall24/)
+- [Course Website - Fall 2024](../fall-2024/)
 
-[Course Website - Fall 2022](/cs-172-computability-and-complexity-fall-2022/)
+- [Course Website - Fall 2022](../fall-2022/)
 
-[Course Website - Spring 2022](/cs-172-computability-and-complexity/)
+- [Course Website - Spring 2022](../spring-2022)
 
-[Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
+- [Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
