@@ -14,19 +14,19 @@ Undergraduate students who wish to take this class should fill out the following
 
 **Office Hours:** Monday 3:00-4:00 PM (via Zoom).
 
-**Instructor:**[Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org%2F&sa=D&sntz=1&usg=AOvVaw1_ca4aFO3SN8SmWhTCFqSc), atal "at" berkeley.edu
+**Instructor:**[Avishay Tal](http://www.avishaytal.org/), atal "at" berkeley.edu
 
-**TA:**[Kewen Wu](https://www.google.com/url?q=https%3A%2F%2Fshlw.github.io&sa=D&sntz=1&usg=AOvVaw26h3hs1vaZchv2YasT5Y-N), shlw\_kevin \[at\] hotmail \[dot\] com
+**TA:**[Kewen Wu](https://shlw.github.io), shlw\_kevin \[at\] hotmail \[dot\] com
 
 **Grading:**Homeworks - 40% (4 assignments), Final Project & Presentation - 50%, Scribes - 10%.
 
 **Prereqs:** CS170 or equivalent is required.
 
-[**Gradescope**](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F310808&sa=D&sntz=1&usg=AOvVaw0f9sMiCJcIuqJ91m36dNc9)[**Piazza**](http://www.google.com/url?q=http%3A%2F%2Fpiazza.com%2Fberkeley%2Ffall2021%2Fcs294202&sa=D&sntz=1&usg=AOvVaw0oGbiQXVy_oIbtF244EV1p)
+[**Gradescope**](https://www.gradescope.com/courses/310808)[**Piazza**](http://piazza.com/berkeley/fall2021/cs294202)
 
 **Textbook:**
 
-- Salil Vadhan - [Pseudorandomness](https://www.google.com/url?q=https%3A%2F%2Fpeople.seas.harvard.edu%2F~salil%2Fpseudorandomness%2F&sa=D&sntz=1&usg=AOvVaw2jc9ipUift6CNRnbiOuSkb)
+- Salil Vadhan - [Pseudorandomness](https://people.seas.harvard.edu/~salil/pseudorandomness/)
 **Problem Sets:**
 
 - [Homework 1](https://drive.google.com/open?id=1hWKWDmRkJJia3IJtIk6KL7TtoxcKmIsk) \- Due Monday, Sep 20.
@@ -124,8 +124,8 @@ Undergraduate students who wish to take this class should fill out the following
 - [Computational Extractors & Applications](https://drive.google.com/file/d/1cpdNbCdVuqExw4WFV-hxF6FAQcY8AMum/view?usp=sharing) by Jialin Li and Dhanya Jayagopal
 **Additional Reading****:**
 
-- [Analysis of Boolean Functions](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.cmu.edu%2F~odonnell%2Fpapers%2FAnalysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf&sa=D&sntz=1&usg=AOvVaw3OanXsRGMH7GPgPDLPRw4g) by [Ryan O'Donnell](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.cmu.edu%2F~odonnell%2F&sa=D&sntz=1&usg=AOvVaw0OAxOoW2swE4wj1-DmfsNZ).
+- [Analysis of Boolean Functions](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf) by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).
 
-- [Simple Construction of Almost k-wise Independent Random Variables](https://www.google.com/url?q=https%3A%2F%2Fwww.wisdom.weizmann.ac.il%2F~oded%2Fp_aghp.html&sa=D&sntz=1&usg=AOvVaw2rlyWkop8_CiGRLax3h425) by Alon, Goldreich, Håstad, Peralta
+- [Simple Construction of Almost k-wise Independent Random Variables](https://www.wisdom.weizmann.ac.il/~oded/p_aghp.html) by Alon, Goldreich, Håstad, Peralta
 
-- [Expander Graphs and Their Applications](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.huji.ac.il%2F~nati%2FPAPERS%2Fexpander_survey.pdf&sa=D&sntz=1&usg=AOvVaw2ekU7p-MbygfCjQQCT0gtI) by Hoory, Linial, Wigderson
+- [Expander Graphs and Their Applications](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf) by Hoory, Linial, Wigderson

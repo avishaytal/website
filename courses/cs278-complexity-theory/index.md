@@ -2,7 +2,7 @@
 
 ## Course Description:
 
-Computational Complexity studies the power and limitations of efficient computation. What can be computed with bounded resources such as time, memory, randomness, communication, and parallel cores? In this course, we will explore these beautiful questions. While most of them are widely open (e.g., Is verifying easier than proving? Is parallelism always helpful? Does randomness help in computation?), we will see many surprising connections between them. The course will be based on selected chapters from the book “[Computational Complexity](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr)” by **Sanjeev Arora** and **Boaz Barak**.
+Computational Complexity studies the power and limitations of efficient computation. What can be computed with bounded resources such as time, memory, randomness, communication, and parallel cores? In this course, we will explore these beautiful questions. While most of them are widely open (e.g., Is verifying easier than proving? Is parallelism always helpful? Does randomness help in computation?), we will see many surprising connections between them. The course will be based on selected chapters from the book "[Computational Complexity](http://theory.cs.princeton.edu/complexity/)" by **Sanjeev Arora** and **Boaz Barak**.
 
 Among the highlights, we will discuss Randomized Algorithms, Bounded-Space Algorithms, Savitch's Theorem, Immerman-Szelepcsényi's Theorem, the PCP Theorem and its connections to Hardness of Approximation, Interactive Proofs and IP = PSPACE, Hardness vs. Randomness, Pseudorandomness and Derandomization, Hardness Amplification, Introduction to Communication Complexity, Karchmer-Wigderson games, Circuit Complexity, Hardness within P.
 
@@ -10,11 +10,11 @@ Among the highlights, we will discuss Randomized Algorithms, Bounded-Space Algor
 
 **Time and Place:** Tuesday, Thursday, 2:00-3:30 PM (via Zoom)
 
-**Instructor:** [Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org%2F&sa=D&sntz=1&usg=AOvVaw1_ca4aFO3SN8SmWhTCFqSc), atal "at" berkeley.edu
+**Instructor:** [Avishay Tal](http://www.avishaytal.org/), atal "at" berkeley.edu
 
 **Office Hours:** Monday 4:00-5:00 PM
 
-**TA:** [Nagaganesh Jaladanki](https://www.google.com/url?q=https%3A%2F%2Fnagaganesh.com&sa=D&sntz=1&usg=AOvVaw2ILpckbk4XWJfh9JMk9RGM), nagaganesh "at" berkeley.edu
+**TA:** [Nagaganesh Jaladanki](https://nagaganesh.com), nagaganesh "at" berkeley.edu
 
 **Grading:** Homework assignments - 50% (5 assignments), scribe - mandatory + replaces the lowest-grade hw assignment, Final Project & Presentation - 50%. Participation in class - extra credit.
 
@@ -22,20 +22,20 @@ Among the highlights, we will discuss Randomized Algorithms, Bounded-Space Algor
 
 **Pre-Reading:**
 
-For those of you that want a refresher on the general setting, or those who haven't taken 172, please see Chapter 3 in Sipser's book ("**Introduction to the Theory of Computation**" by **Michael Sipser**) or chapters 1 & 2 [**Arora-Barak.**](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr)
+For those of you that want a refresher on the general setting, or those who haven't taken 172, please see Chapter 3 in Sipser's book ("**Introduction to the Theory of Computation**" by **Michael Sipser**) or chapters 1 & 2 [**Arora-Barak.**](http://theory.cs.princeton.edu/complexity/)
 
 **Textbooks & Lecture Notes:**
 
-- Sanjeev Arora, Boaz Barak -[Computational Complexity, A Modern Approach](http://www.google.com/url?q=http%3A%2F%2Ftheory.cs.princeton.edu%2Fcomplexity%2F&sa=D&sntz=1&usg=AOvVaw1GaQAp5jJ9EQDHhz9-vovr) \+ [Web Addendum](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.utexas.edu%2F~danama%2Fcourses%2Fadv-comp20%2Faccnexp.pdf&sa=D&sntz=1&usg=AOvVaw1xAhmPfR9mzKo4ZXHouWuQ)
+- Sanjeev Arora, Boaz Barak -[Computational Complexity, A Modern Approach](http://theory.cs.princeton.edu/complexity/) \+ [Web Addendum](https://www.cs.utexas.edu/~danama/courses/adv-comp20/accnexp.pdf)
 
-- Oded Goldreich - [Computational Complexity, A Conceptual Perspective](http://www.google.com/url?q=http%3A%2F%2Fwww.wisdom.weizmann.ac.il%2F~oded%2Fcc-book.html&sa=D&sntz=1&usg=AOvVaw0cceU_q18Lhfqoq5epE0bz)
+- Oded Goldreich - [Computational Complexity, A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html)
 
-- Avi Wigderson -[Mathematics and Computation](https://www.google.com/url?q=https%3A%2F%2Fwww.math.ias.edu%2Favi%2Fbook&sa=D&sntz=1&usg=AOvVaw1R3HNh-y2TegJ9_vM0TeMt)
+- Avi Wigderson -[Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
-- Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://www.google.com/url?q=http%3A%2F%2Feccc.hpi-web.de%2Fresources%2Fpdf%2Fcohen.pdf&sa=D&sntz=1&usg=AOvVaw3LzZMku3lkaxB7pHb0BwAK)
-[Piazza](http://www.google.com/url?q=http%3A%2F%2Fpiazza.com%2Fberkeley%2Fspring2021%2Fcs278%2Fhome&sa=D&sntz=1&usg=AOvVaw2sxbfa5Nv7tAdn8P48wGg7)
+- Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://eccc.hpi-web.de/resources/pdf/cohen.pdf)
+[Piazza](http://piazza.com/berkeley/spring2021/cs278/home)
 
-[Gradescope](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F242906&sa=D&sntz=1&usg=AOvVaw18OauiCpkMxY7XfZ0Bgd4M)
+[Gradescope](https://www.gradescope.com/courses/242906)
 
 ## Problem Sets:
 

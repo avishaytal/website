@@ -8,7 +8,7 @@ We will study these foundational concepts of Boolean function as well as their a
 
 **Textbook:**
 
-The course will be mainly based on the wonderful[book](http://www.google.com/url?q=http%3A%2F%2Fanalysisofbooleanfunctions.net&sa=D&sntz=1&usg=AOvVaw3YkM6WrletsN56lFGFz6aK) by Ryan O'Donnell. The book is available for **free download** via this[link](http://www.google.com/url?q=http%3A%2F%2Fget.analysisofbooleanfunctions.net&sa=D&sntz=1&usg=AOvVaw3OMlrffFjwy3bama9bqk_Q), or available for purchase on Amazon.
+The course will be mainly based on the wonderful[book](http://analysisofbooleanfunctions.net) by Ryan O'Donnell. The book is available for **free download** via this[link](http://get.analysisofbooleanfunctions.net), or available for purchase on Amazon.
 
 In addition, we will highlight some recent exciting results that are not covered in the book.
 
@@ -18,11 +18,11 @@ In addition, we will highlight some recent exciting results that are not covered
 
 **Time and Place:**Tuesday, Thursday 5:00-6:30 PM -- 310 Soda Hall
 
-**Instructor:**[Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org&sa=D&sntz=1&usg=AOvVaw0J1guJkM-JGDJ1QzcD2Z7W), Soda 635, atal "at" berkeley.edu
+**Instructor:**[Avishay Tal](http://www.avishaytal.org), Soda 635, atal "at" berkeley.edu
 
 **Office Hours:**Monday 1:30-3:30 PM
 
-**TA:**[Orr Paradise](http://www.google.com/url?q=http%3A%2F%2Fpeople.eecs.berkeley.edu%2F~orrp%2F&sa=D&sntz=1&usg=AOvVaw2MQbtBtKb9TbjLhFUkl1ak), Soda 626, orrp "at" eecs.berkeley.edu
+**TA:**[Orr Paradise](http://people.eecs.berkeley.edu/~orrp/), Soda 626, orrp "at" eecs.berkeley.edu
 
 **Office Hours:**Wednesday 2:30-3:30 PM (or fix an appointment by email). Please send questions/topics in advance.
 
@@ -37,9 +37,9 @@ In addition, we will highlight some recent exciting results that are not covered
 - [Homework 3](https://drive.google.com/open?id=1ur1V858TdKhk-ytZe2wS1E85U3Xyn9Fu) \- Due Tuesday, Mar 31.
 
 - [Homework 4](https://drive.google.com/open?id=1L2huhm3Yp1HX8VwY_HI9YzRakRkI1gEd) \- Due Tuesday, May 5.
-Discussions:[Piazza](https://www.google.com/url?q=https%3A%2F%2Fpiazza.com%2Fclass%2Fk5swc8w6mn82f&sa=D&sntz=1&usg=AOvVaw1qLu4p4Tyzx-OljNHX2uWO)
+Discussions:[Piazza](https://piazza.com/class/k5swc8w6mn82f)
 
-HW submissions:[Gradescope](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F85615&sa=D&sntz=1&usg=AOvVaw2sDDzTFvodUtA_21bl5bWL)
+HW submissions:[Gradescope](https://www.gradescope.com/courses/85615)
 
 **Topics (not necessarily in that order):**
 
@@ -121,7 +121,7 @@ For each lecture - see the relevant chapters in O'Donnell's book + additional re
 
 07. Feb 11 - Goldreich-Levin Algorithm - Chapter 3.5 - [Lecture notes](https://drive.google.com/open?id=1QQpQJs48KNAoMn1dUwkYXkmyXyrAhe9Y) (Scribe: Alex Yu)
 
-08. Feb 13 - Learning Juntas -[\[Mossel-O'Donnell-Servedio'04\]](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.cmu.edu%2F~odonnell%2Fpapers%2Fjuntas.pdf&sa=D&sntz=1&usg=AOvVaw0RLeSNGv0i-qSXglBX7PvZ), [\[Valiant'12\]](https://www.google.com/url?q=https%3A%2F%2Fdl.acm.org%2Fdoi%2F10.1145%2F2728167&sa=D&sntz=1&usg=AOvVaw1jKNHDWOEqNf7bEYXbWtD8)
+08. Feb 13 - Learning Juntas -[\[Mossel-O'Donnell-Servedio'04\]](https://www.cs.cmu.edu/~odonnell/papers/juntas.pdf), [\[Valiant'12\]](https://dl.acm.org/doi/10.1145/2728167)
 
 09. Feb 18 - DNFs, Random Restrictions - Chapters 3.3, 4.1, 4.3 - [Lecture notes](https://drive.google.com/open?id=1A9iMriSV7MuygygI2mVANHQSdICDsTHB) (Scribe: Nagaganesh Jaladanki)
 
