@@ -1,7 +1,7 @@
 # Site settings
 title: "Avishay Tal"
 url: "https://avishaytal.org"
-baseurl: ""
+baseurl: "/website"
 description: "Avishay Tal, Associate Professor at UC Berkeley EECS, specializing in computational complexity, analysis of Boolean functions, and quantum computing."
 
 # Repository settings
