@@ -4,7 +4,7 @@
 
 **Time and Date:** 10:00 PDT to 13:00 PDT, Friday, June 26, 2020.
 
-**Organizers:**[Raghu Meka](https://www.google.com/url?q=https%3A%2F%2Fraghumeka.github.io&sa=D&sntz=1&usg=AOvVaw2pr78elJHdWi5ATHS2tjK4) (raghum@cs.ucla.edu),[Avishay Tal](https://www.google.com/url?q=https%3A%2F%2Fwww.avishaytal.org&sa=D&sntz=1&usg=AOvVaw17orPWK1D0rZg80HwLlrQZ) (atal@berkeley.edu), and[David Zuckerman](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.utexas.edu%2F~diz%2F&sa=D&sntz=1&usg=AOvVaw1uZamyin9KP4c9DmFqzZEb) (diz@utexas.edu)
+**Organizers:**[Raghu Meka](https://raghumeka.github.io) (raghum@cs.ucla.edu),[Avishay Tal](https://www.avishaytal.org) (atal@berkeley.edu), and[David Zuckerman](https://www.cs.utexas.edu/~diz/) (diz@utexas.edu)
 
 **Description:**A major question in computer science asks what is the power of randomness in computation? Does BPP=P? However, the BPP versus P problem entails proving strong lower bounds, so probably the most exciting prospect of a big unconditional derandomization result is that BPL=L. This would imply BPSPACE(S)=DSPACE(S) for any space-constructible S(n) >= log(n). Despite much effort, we still don’t know any better theorem than BPL in L3/2, proved by Saks and Zhou over 20 years ago. On the other hand, there has recently been some exciting progress in several related directions. That’s the focus of this workshop.
 
@@ -12,21 +12,21 @@
 
 **Schedule:**
 
-10:00 - 10:40 (PDT) -[Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org&sa=D&sntz=1&usg=AOvVaw0J1guJkM-JGDJ1QzcD2Z7W) \-\- PRGs via Pseudorandom Restrictions
+10:00 - 10:40 (PDT) -[Avishay Tal](http://www.avishaytal.org) \-\- PRGs via Pseudorandom Restrictions
 
-10:45 - 11:25 (PDT) -[Michael A. Forbes](http://www.google.com/url?q=http%3A%2F%2Fmiforbes.cs.illinois.edu&sa=D&sntz=1&usg=AOvVaw3KhSHR7t7CdX2YYoJlEIXh) \-\- PRGs for Read-Once Branching Programs, in any Order
+10:45 - 11:25 (PDT) -[Michael A. Forbes](http://miforbes.cs.illinois.edu) \-\- PRGs for Read-Once Branching Programs, in any Order
 
 11:25 - 11:35 (PDT) - Break
 
-11:35 - 12:15 (PDT) - [Sumegha Garg](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.princeton.edu%2F~sumeghag%2F&sa=D&sntz=1&usg=AOvVaw0ltvmCnmx9Tc_vsuQYdsuT) \-\- Pseudorandom Pseudo-Distributions with Near-Optimal Error for Read-Once Branching Programs
+11:35 - 12:15 (PDT) - [Sumegha Garg](https://www.cs.princeton.edu/~sumeghag/) \-\- Pseudorandom Pseudo-Distributions with Near-Optimal Error for Read-Once Branching Programs
 
-12:20 - 1:00 (PDT) - [Salil Vadhan](https://www.google.com/url?q=https%3A%2F%2Fsalil.seas.harvard.edu&sa=D&sntz=1&usg=AOvVaw1ZxHe41MO7m5SelRAkInNy) \-\- Derandomizing Space-Bounded Computation via Laplacian Solvers
+12:20 - 1:00 (PDT) - [Salil Vadhan](https://salil.seas.harvard.edu) \-\- Derandomizing Space-Bounded Computation via Laplacian Solvers
 
 **Abstracts:**
 
 **Pseudorandom Generators via Pseudorandom Restrictions**
 
-[Avishay Tal](http://www.google.com/url?q=http%3A%2F%2Fwww.avishaytal.org&sa=D&sntz=1&usg=AOvVaw0J1guJkM-JGDJ1QzcD2Z7W), University of California, Berkeley
+[Avishay Tal](http://www.avishaytal.org), University of California, Berkeley
 
 Can we derandomize computation without increasing the memory footprint? This is essentially the RL vs. L question. A major approach towards this goal is to construct pseudorandom generators (PRGs) with O(log n) seed-length that fool log-space computation. Despite many efforts, this approach has been stuck at the O(log^2(n)) barrier for three decades now, since the seminal result of Nisan.
 
@@ -36,7 +36,7 @@ I will survey some recent work from the last decade that revived the restriction
 
 **Pseudorandom Generators for Read-Once Branching Programs, in any Order**
 
-[Michael A. Forbes](http://www.google.com/url?q=http%3A%2F%2Fmiforbes.cs.illinois.edu&sa=D&sntz=1&usg=AOvVaw3KhSHR7t7CdX2YYoJlEIXh), University of Illinois at Urbana-Champaign
+[Michael A. Forbes](http://miforbes.cs.illinois.edu), University of Illinois at Urbana-Champaign
 
 A central question in derandomization is whether randomized logspace (RL) equals deterministic logspace (L). To show that RL=L, it suffices to construct explicit pseudorandom generators (PRGs) that fool polynomial-size read-once (oblivious) branching programs (roBPs). Starting with the work of Nisan, pseudorandom generators with seed-length O(log^2 n) were constructed. Unfortunately, improving on this seed-length in general has proven challenging and seems to require new ideas.
 
@@ -50,7 +50,7 @@ Joint work with Zander Kelley.
 
 **Pseudorandom Pseudo-Distributions with Near-Optimal Error for Read-Once Branching Programs**
 
-[Sumegha Garg](https://www.google.com/url?q=https%3A%2F%2Fwww.cs.princeton.edu%2F~sumeghag%2F&sa=D&sntz=1&usg=AOvVaw0ltvmCnmx9Tc_vsuQYdsuT), Princeton University
+[Sumegha Garg](https://www.cs.princeton.edu/~sumeghag/), Princeton University
 
 Nisan \[Nis92\] constructed a pseudorandom generator for length n, width w read-once branching programs (ROBPs) with error ε and seed length O(log^2 n + log n · log w + log n · log(1/ε)). Informally, a pseudorandom generator with seed length s specifies 2^s paths such that for any length n, width w ROBP, the probability of acceptance (over 2^n paths) can be approximated, upto error ε, by the fraction of these 2^s paths that are accepting. A major goal in complexity theory is to reduce the seed length, hopefully, to O(log nw/ε)), or to construct improved hitting sets, as these would yield stronger derandomization of BPL (randomized log-space computation with two-sided error) and RL (randomized log-space computation with one-sided error), respectively. In contrast to a successful line of work in restricted settings, for general unrestricted ROBPs (for n=w), no progress had been made since \[Nis92\].
 
@@ -64,7 +64,7 @@ Joint work with Mark Braverman and Gil Cohen (STOC'18).
 
 **Derandomizing Space-Bounded Computation via Laplacian Solvers**
 
-[Salil Vadhan](https://www.google.com/url?q=https%3A%2F%2Fsalil.seas.harvard.edu&sa=D&sntz=1&usg=AOvVaw1ZxHe41MO7m5SelRAkInNy), Harvard University
+[Salil Vadhan](https://salil.seas.harvard.edu), Harvard University
 
 I will describe a series of works that attacks the derandomization of space-bounded computation (e.g. seeking to prove BPL=L) using a combination of ideas from the literature on time-efficient Laplacian solvers (Spielman and Teng, STOC \`04; Peng and Spielman, STOC \`14; Cheng et al. \`15; Cohen et al. FOCS \`16, STOC \`17, FOCS \`18) with ones used to show that Undirected S-T Connectivity is in deterministic logspace (Reingold, STOC \`05 and JACM \`08; Rozenman and Vadhan, RANDOM \`05).
 
@@ -74,4 +74,4 @@ Joint works with Murtagh, Reingold, and Sidford (FOCS \`17 and RANDOM \`19) and 
 
 [**Slides**](https://drive.google.com/open?id=1oNy929eBOHby0yIHEQ5U5obK7220y6Lq)
 
-Another excellent resource is this[two](https://www.youtube.com/watch?v=Wjo7o8aOiQ4&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4&t=0s)-[part](https://www.youtube.com/watch?v=fl3_4TczN4w&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4) tutorial lectures by[Omer Reingold](https://www.google.com/url?q=https%3A%2F%2Fomereingold.wordpress.com&sa=D&sntz=1&usg=AOvVaw2POtfAcZPUATVc0SV_ZAKs) about the same topic from CCC 2019.
+Another excellent resource is this[two](https://www.youtube.com/watch?v=Wjo7o8aOiQ4&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4&t=0s)-[part](https://www.youtube.com/watch?v=fl3_4TczN4w&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4) tutorial lectures by[Omer Reingold](https://omereingold.wordpress.com) about the same topic from CCC 2019.

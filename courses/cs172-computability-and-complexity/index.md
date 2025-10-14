@@ -10,23 +10,23 @@
 
 **Office Hours:** Mon/Fri 3-4 on Zoom (details on Piazza)
 
-**GSI:**[Adwait Godbole](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadwait-godbole%2F&sa=D&sntz=1&usg=AOvVaw32ECzgTWvh1T7ny7Vl2m2T) ( _adwait "at" berkeley.edu_)
+**GSI:**[Adwait Godbole](https://www.linkedin.com/in/adwait-godbole/) ( _adwait "at" berkeley.edu_)
 
 **Discussion****Sections:**Thu 2-3 PM (Soda 310), Thu 3-4 PM (Soda 320)
 
 **Office Hours:**Mon 2-3 PM (Soda 283E) Tue 11-12 (Soda 283E)
 
-**Reader:**[William Lin](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flin-william%2F&sa=D&sntz=1&usg=AOvVaw0lG7U9YKSSHHtuKvMPoMqY) ( _willin "at" berkeley.edu)_
+**Reader:**[William Lin](https://www.linkedin.com/in/lin-william/) ( _willin "at" berkeley.edu)_
 
 **Office Hours:**Fri 2-3 PM (Soda 283H)
 
 **Piazza Forum**
 
-[http://piazza.com/berkeley/spring2022/cs172](http://www.google.com/url?q=http%3A%2F%2Fpiazza.com%2Fberkeley%2Fspring2022%2Fcs172&sa=D&sntz=1&usg=AOvVaw3oBe4PaYOG1BK2p3sLurtL)
+[http://piazza.com/berkeley/spring2022/cs172](http://piazza.com/berkeley/spring2022/cs172)
 
 **Gradescope**
 
-[https://www.gradescope.com/courses/352772](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F352772&sa=D&sntz=1&usg=AOvVaw2u-l6PAXDXl_FnVCOETiXK)
+[https://www.gradescope.com/courses/352772](https://www.gradescope.com/courses/352772)
 
 [**Course Policies & Information**](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/)
 

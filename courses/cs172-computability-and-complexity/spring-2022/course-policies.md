@@ -45,7 +45,7 @@ The Instructor, GSI and reader will hold weekly office hours. Office hours are a
 
 The guiding principle for homework collaboration is that your writeup of the solutions should be yours only. You are encouraged to work together in small study groups, where it is fine to discuss the meaning of a problem and ways to solve it; however, you must always write up the solutions on your own. Similarly, you may use books and other sources to help solve homework problems, but you must write up the solution on your own and cite any sources you use.
 
-You should be aware that copying or sharing solutions, in whole or in part, from other students in the class (or any other source without acknowledgment) constitutes cheating. For more information please see the [Department's policy on Academic Dishonesty](https://www.google.com/url?q=https%3A%2F%2Feecs.berkeley.edu%2Fresources%2Fstudents%2Facademic-dishonesty&sa=D&sntz=1&usg=AOvVaw1oNWoEoSyDmyMc2kDHnghN).
+You should be aware that copying or sharing solutions, in whole or in part, from other students in the class (or any other source without acknowledgment) constitutes cheating. For more information please see the [Department's policy on Academic Dishonesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty).
 
 If you’re ever in doubt about what constitutes academic dishonesty, please ask course staff or post on Piazza.
 
@@ -55,6 +55,6 @@ We do allow time conflicts, but not for exams.
 
 **Climate & Incident Reporting**
 
-The department is maintaining an [Incident Reporting Form](http://www.google.com/url?q=http%3A%2F%2Feecs.link%2Fclimate&sa=D&sntz=1&usg=AOvVaw1y6raCRdKMYV5Hkyujtgfo) that students can use if they feel unsafe, disrespected, or unwelcome. You are encouraged to use it if this applies to you (in this class or elsewhere on campus)
+The department is maintaining an [Incident Reporting Form](http://eecs.link/climate) that students can use if they feel unsafe, disrespected, or unwelcome. You are encouraged to use it if this applies to you (in this class or elsewhere on campus)
 
-This [page](https://www.google.com/url?q=https%3A%2F%2Feecs.berkeley.edu%2Fresources%2Fstudents%2Fgrievances&sa=D&sntz=1&usg=AOvVaw0AWIRpUjZ6ZFu2hnzLpOQ4) has links to other resources regarding student grievances and concerns in EECS.
+This [page](https://eecs.berkeley.edu/resources/students/grievances) has links to other resources regarding student grievances and concerns in EECS.

@@ -8,7 +8,7 @@
 
 **Lectures:** Tue/Thu 2:00-3:30 PM, **Soda 306****Office Hours:** Tue 3:30-4:30 PM, **Soda 306**. Fri 10-11 on Zoom (link on Ed)
 
-**GSI:**[Siqi Liu](https://www.google.com/url?q=https%3A%2F%2Fsiqi-l.github.io&sa=D&sntz=1&usg=AOvVaw3NPOgtijtUXKJIxG3wPzmp) ( _sliu18__"at" berkeley.edu_)
+**GSI:**[Siqi Liu](https://siqi-l.github.io) ( _sliu18__"at" berkeley.edu_)
 
 **Discussion****Sections:**Wed5-6 PM (**Soda****306**), Fri10-11AM (**Soda****310**)
 
@@ -22,11 +22,11 @@
 
 **Ed****Discussions**
 
-[https://edstem.org/us/courses/26774/discussion/](https://www.google.com/url?q=https%3A%2F%2Fedstem.org%2Fus%2Fcourses%2F26774%2Fdiscussion%2F&sa=D&sntz=1&usg=AOvVaw2E5xa6w6OhyYhv6DgW5prd)
+[https://edstem.org/us/courses/26774/discussion/](https://edstem.org/us/courses/26774/discussion/)
 
 **Gradescope**
 
-[https://www.gradescope.com/courses/427330](https://www.google.com/url?q=https%3A%2F%2Fwww.gradescope.com%2Fcourses%2F427330&sa=D&sntz=1&usg=AOvVaw1qQ51NiZybwbydti5d4YOD)
+[https://www.gradescope.com/courses/427330](https://www.gradescope.com/courses/427330)
 
 [**Course Policies & Information**](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022)
 
@@ -57,12 +57,12 @@
 - Homework 11 - [PDF](https://drive.google.com/file/d/1e5nS_tmm2h6Iy-jf29QBfccFS0Fzo-9w/view?usp=share_link) \- Released on Nov 28. Not for Submission.
 **Useful Resources:**
 
-[Theory of Computation Online Lectures](https://www.google.com/url?q=https%3A%2F%2Fhackmd.io%2F2AqODdrtTOuj6fb5uMDZYw%3Fview&sa=D&sntz=1&usg=AOvVaw38EW_6-DuPxCSsBjGoTTAl)
+[Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
 
-[Mathematics and Computation - Avi Wigderson](https://www.google.com/url?q=https%3A%2F%2Fwww.math.ias.edu%2Ffiles%2FBook-online-Aug0619.pdf&sa=D&sntz=1&usg=AOvVaw3MjRk0Sa0TOPLlfmSsELnu)
+[Mathematics and Computation - Avi Wigderson](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 
-[Finite State Machine Designer](https://www.google.com/url?q=https%3A%2F%2Fmadebyevan.com%2Ffsm%2F&sa=D&sntz=1&usg=AOvVaw1WdVDh9FzaJeGPtUn2KUzG)
+[Finite State Machine Designer](https://madebyevan.com/fsm/)
 
 [Course Website - Spring 2022](/cs-172-computability-and-complexity/)
 
-[Course Website - Spring 2021](https://www.google.com/url?q=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F~sinclair%2Fcs172%2Fs21.html&sa=D&sntz=1&usg=AOvVaw25tpc9j6IVXruwRsCd6oyG) (Prof. Alistair Sinclair)
+[Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
