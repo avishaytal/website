@@ -1,6 +1,4 @@
-## CS 172 Computability and Complexity
-
-## Fall 2025
+# CS 172 Computability and Complexity (Fall 2025)
 
 ## Course Staff
 
@@ -28,6 +26,8 @@
 
   Carl Sun (carlsxh "at" berkeley.edu)
 
+## Linkage
+
 **[Ed Discussions](https://edstem.org/us/courses/84973)**
 
 **[Gradescope](https://www.gradescope.com/courses/1110614)**
@@ -37,7 +37,7 @@
 **[Lecture Schedule](/cs172-Fall25/lecture-schedule-fall-2025/)**
 
 ## Homeworks
-
+  
 **[Google Drive](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)**
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1v62W_Q-pu8Dvk33WUXKlR2kpngTj5yV4/view?usp=share_link) \- Released Aug 30, Due Sep 8
