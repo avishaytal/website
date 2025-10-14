@@ -2,7 +2,6 @@
 title: "Avishay Tal"
 url: "https://avishaytal.org"
 baseurl: "/website"
-description: "Avishay Tal, Associate Professor at UC Berkeley EECS, specializing in computational complexity, analysis of Boolean functions, and quantum computing."
 
 # Repository settings
 repository: "avishaytal/website"
@@ -39,7 +38,7 @@ navigation:
     url: "/teaching/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Students"
+  - title: "Group"
     url: "/students/"
   - title: "Contact"
     url: "/contact/"
