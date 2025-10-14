@@ -27,7 +27,7 @@ plugins:
   - jekyll-seo-tag
 
 # Theme settings
-theme: minima
+# theme: minima  # Disabled to use custom layouts
 
 # Navigation
 navigation:
