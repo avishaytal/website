@@ -16,7 +16,7 @@ The course will be mainly based on the wonderful book by Ryan O'Donnell. The boo
 
 In addition, we will highlight some recent exciting results that are not covered in the book.
 
-General Information:
+## General Information:
 
 Semester: Spring 2025
 
@@ -28,7 +28,7 @@ Office Hours: Tuesday 1:30-2:30 pm @ 635 Soda.
 
 Grading: Homework - 40% (4 assignments), Lecture Scribe - 10%, Final Project & Presentation - 50%.
 
-Problem Sets:
+## Problem Sets:
 
 - [HW1](https://drive.google.com/file/d/1vagVVeNmklI9zUcbTc1gurRNIaHDB7uO/view?usp=share_link) \-\- Due Monday, Feb 10.
 
@@ -41,7 +41,7 @@ Problem Sets:
 
 HW submissions on [Gradescope](https://www.gradescope.com/courses/980320)
 
-Lectures Schedule (tentative):
+## Lectures Schedule:
 
 For each lecture - please take a look at the relevant chapters in O'Donnell's book & additional resources  & lecture notes.
 
@@ -103,7 +103,7 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 28. May 1 \- Presentations # 2
 RRR Week: More Presentations
 
-Resources and Other Courses:
+## Resources and Other Courses:
 
 - [Spring 2020 version of this course](/cs-294-92-analysis-of-boolean-functions-spring-2020/)
 
@@ -134,7 +134,7 @@ Videos about Fourier concentration and random restriction-based PRGs:
 
 [Fourier tails for Boolean functions and their applications](https://www.youtube.com/watch?v=FmisseepEys)
 
-Other Courses:
+### Other Courses:
 
 [Dor Minzer - MIT](https://sites.google.com/view/dorminzer/teaching?authuser=0) (2021)
 
