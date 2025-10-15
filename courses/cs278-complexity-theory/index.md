@@ -1,4 +1,4 @@
-# **CS 278 Computational Complexity Theory**
+# **CS 278 Computational Complexity Theory (Spring 2021)** 
 
 ## Course Description:
 
