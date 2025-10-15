@@ -4,7 +4,7 @@
 
 **Time and Date:** 10:00 PDT to 13:00 PDT, Friday, June 26, 2020.
 
-**Organizers:**[Raghu Meka](https://raghumeka.github.io) (raghum@cs.ucla.edu),[Avishay Tal](https://www.avishaytal.org) (atal@berkeley.edu), and[David Zuckerman](https://www.cs.utexas.edu/~diz/) (diz@utexas.edu)
+**Organizers:**[Raghu Meka](https://raghumeka.github.io) (raghum@cs.ucla.edu),[Avishay Tal](https://www.avishaytal.org) (atal@berkeley.edu), and [David Zuckerman](https://www.cs.utexas.edu/~diz/) (diz@utexas.edu)
 
 **Description:**A major question in computer science asks what is the power of randomness in computation? Does BPP=P? However, the BPP versus P problem entails proving strong lower bounds, so probably the most exciting prospect of a big unconditional derandomization result is that BPL=L. This would imply BPSPACE(S)=DSPACE(S) for any space-constructible S(n) >= log(n). Despite much effort, we still don’t know any better theorem than BPL in L3/2, proved by Saks and Zhou over 20 years ago. On the other hand, there has recently been some exciting progress in several related directions. That’s the focus of this workshop.
 
@@ -74,4 +74,4 @@ Joint works with Murtagh, Reingold, and Sidford (FOCS \`17 and RANDOM \`19) and 
 
 [**Slides**](https://drive.google.com/open?id=1oNy929eBOHby0yIHEQ5U5obK7220y6Lq)
 
-Another excellent resource is this[two](https://www.youtube.com/watch?v=Wjo7o8aOiQ4&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4&t=0s)-[part](https://www.youtube.com/watch?v=fl3_4TczN4w&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4) tutorial lectures by[Omer Reingold](https://omereingold.wordpress.com) about the same topic from CCC 2019.
+Another excellent resource is this [two](https://www.youtube.com/watch?v=Wjo7o8aOiQ4&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4&t=0s)-[part](https://www.youtube.com/watch?v=fl3_4TczN4w&list=PLKVCRT3MRed4SGJseuvBIUSm85PPBYEap&index=4) tutorial lectures by [Omer Reingold](https://omereingold.wordpress.com) about the same topic from CCC 2019.

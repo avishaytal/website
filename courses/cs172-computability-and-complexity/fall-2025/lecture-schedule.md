@@ -49,4 +49,4 @@ CS172 Fall 2025 Lecture Schedule - Google Drive
 
 **<**
 
-![](https://www.gstatic.com/images/icons/material/product/1x/sheets_32dp.png)CS172 Fall 2025 Lecture Schedule
+![](https://www.gstatic.com/images/icons/material/product/1x/sheets_32dp.png) CS172 Fall 2025 Lecture Schedule

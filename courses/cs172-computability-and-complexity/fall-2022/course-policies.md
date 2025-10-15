@@ -55,4 +55,4 @@ We do allow time conflicts, but not for exams.
 
 The department is maintaining an [Incident Reporting Form](http://eecs.link/climate) that students can use if they feel unsafe, disrespected, or unwelcome. You are encouraged to use it if this applies to you (in this class or elsewhere on campus)
 
-This [page](https://eecs.berkeley.edu/resources/students/grievances)has links to other resources regarding student grievances and concerns in EECS.
+This [page](https://eecs.berkeley.edu/resources/students/grievances) has links to other resources regarding student grievances and concerns in EECS.

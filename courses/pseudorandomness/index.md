@@ -6,7 +6,7 @@ Randomized algorithms give a broad and rich algorithmic toolkit (e.g., sampling,
 
 Pseudo-randomness is the property of "appearing random" while having little or no randomness. Pseudo-randomness plays a significant role in error-correcting codes, expander graphs, randomness extractors, and pseudo-random generators. In this course, we will see all these beautiful applications. In the second part of the course, we would focus on the question of derandomization of small-space computation, also known as the "**RL** versus **L**" question. It asks whether all problems that can be decided in randomized logarithmic space (RL) can also be decided in deterministic logarithmic space (L). We would cover recent approaches towards showing that RL = L.
 
-Undergraduate students who wish to take this class should fill out the following[Google Form](https://docs.google.com/forms/d/1O-O7mAX8B86BW3_BntKQSofifxKp1zN1K8sP2CyIbmo/edit).
+Undergraduate students who wish to take this class should fill out the following [Google Form](https://docs.google.com/forms/d/1O-O7mAX8B86BW3_BntKQSofifxKp1zN1K8sP2CyIbmo/edit).
 
 **General Information:**
 

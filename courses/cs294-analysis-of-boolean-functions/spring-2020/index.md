@@ -8,7 +8,7 @@ We will study these foundational concepts of Boolean function as well as their a
 
 **Textbook:**
 
-The course will be mainly based on the wonderful[book](http://analysisofbooleanfunctions.net) by Ryan O'Donnell. The book is available for **free download** via this[link](http://get.analysisofbooleanfunctions.net), or available for purchase on Amazon.
+The course will be mainly based on the wonderful [book](http://analysisofbooleanfunctions.net) by Ryan O'Donnell. The book is available for **free download** via this [link](http://get.analysisofbooleanfunctions.net), or available for purchase on Amazon.
 
 In addition, we will highlight some recent exciting results that are not covered in the book.
 
