@@ -4,13 +4,15 @@
 
 **Instructor:** [Avishay Tal](/avishay-tal/) (_atal "at" berkeley.edu_)
 
-**Lectures:** Tue/Thu 2:00-3:30 PM, **Soda 306****Office Hours:** Tue 3:30-4:30 PM, **Soda 306**. Fri 10-11 on Zoom (link on Ed)
+**Lectures:** Tue/Thu 2:00-3:30 PM, **Soda 306** 
+
+**Office Hours:** Tue 3:30-4:30 PM, **Soda 306**. Fri 10-11 on Zoom (link on Ed)
 
 **GSI:** [Siqi Liu](https://siqi-l.github.io) ( _sliu18__"at" berkeley.edu_)
 
-**Discussion Sections:** Wed5-6 PM (**Soda****306**), Fri10-11AM (**Soda****310**)
+**Discussion Sections:** Wed5-6 PM (**Soda 306**), Fri10-11AM (**Soda 310**)
 
-**Office Hours:** Tue5-6 PM (**Soda****326**) Thu5-6on Zoom (link on Ed)
+**Office Hours:** Tue5-6 PM (**Soda 326**) Thu5-6on Zoom (link on Ed)
 
 **Tutor:** Clara Mohri ( _cmohri__"at" berkeley.edu_)
 
@@ -20,7 +22,7 @@
 
 ### Linkage
 
-**Ed****Discussions**
+**Ed Discussions**
 
 [https://edstem.org/us/courses/26774/discussion/](https://edstem.org/us/courses/26774/discussion/)
 
