@@ -1,24 +1,26 @@
-## **CS 172 Computability and Complexity**
+# **CS 172 Computability and Complexity**
 
 ## **Spring 2022**
 
-**Course Staff**
+### Course Staff
 
-**Instructor:**[Avishay Tal](/avishay-tal/) ( _atal "at" berkeley.edu_)
+**Instructor:** [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
 
 **Lectures:** Tue/Thu 5:00-6:30 PM, **2040 Valley Life Sciences (note the room change)**
 
 **Office Hours:** Mon/Fri 3-4 on Zoom (details on Piazza)
 
-**GSI:**[Adwait Godbole](https://www.linkedin.com/in/adwait-godbole/) ( _adwait "at" berkeley.edu_)
+**GSI:** [Adwait Godbole](https://www.linkedin.com/in/adwait-godbole/) (adwait "at" berkeley.edu)
 
-**Discussion****Sections:**Thu 2-3 PM (Soda 310), Thu 3-4 PM (Soda 320)
+**Discussion Sections:** Thu 2-3 PM (Soda 310), Thu 3-4 PM (Soda 320)
 
-**Office Hours:**Mon 2-3 PM (Soda 283E) Tue 11-12 (Soda 283E)
+**Office Hours:** Mon 2-3 PM (Soda 283E) Tue 11-12 (Soda 283E)
 
-**Reader:**[William Lin](https://www.linkedin.com/in/lin-william/) ( _willin "at" berkeley.edu)_
+**Reader:** [William Lin](https://www.linkedin.com/in/lin-william/) (willin "at" berkeley.edu)
 
-**Office Hours:**Fri 2-3 PM (Soda 283H)
+**Office Hours:** Fri 2-3 PM (Soda 283H)
+
+### Linkage
 
 **Piazza Forum**
 
@@ -28,11 +30,11 @@
 
 [https://www.gradescope.com/courses/352772](https://www.gradescope.com/courses/352772)
 
-[**Course Policies & Information**](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/)
+## [**Course Policies & Information**](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/)
 
-[**Lecture Schedule**](/cs-172-computability-and-complexity/lecture-schedule-spring-2022/)
+## [**Lecture Schedule**](/cs-172-computability-and-complexity/lecture-schedule-spring-2022/)
 
-[**Homeworks**](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
+## [**Homeworks**](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1Ov3Q3bMaUj6Uz4Vw0QfRDSpGGRsCkTYy/view?usp=sharing), [TeX](https://drive.google.com/file/d/1V_VNLXW3U4X9H-Lh-Fwj_PhxDdS_Z7TQ/view?usp=sharing) \- Released Jan 21, Due Jan 28
 
@@ -55,7 +57,8 @@
 - Homework 10 - [PDF](https://drive.google.com/file/d/1teATmIPt0hJmWG2wJxAbdKrPGRUrnUuM/view?usp=sharing), [TeX](https://drive.google.com/file/d/1KFJATJJQKtsyELAcCl3HXOQpmWXNlA3m/view?usp=sharing) \- Released Apr 15, Due Apr 23
 
 - Homework 11 - [PDF](https://drive.google.com/file/d/1NLs9VMRxplUSywEbjqvm-kUK4A33wX0p/view?usp=sharing), [TeX](https://drive.google.com/file/d/1z21BvqtpBoHyVknTDFsPEZ_-M_dNwpHt/view?usp=sharing) \- Released Apr 23, Due Apr 30
-**Discussion Handouts**
+
+## Discussion Handouts
 
 - Discussion 1 - [PDF](https://drive.google.com/file/d/1v8rd-fQnfQYsOn7R6PAAK6_Yswqx0TLz/view?usp=sharing) \- For Jan 20, Posted Jan 23 - [Notes](https://drive.google.com/file/d/1wLZRApeXzumpCvM5359b0QMq-ZdBTnWc/view?usp=sharing)
 
