@@ -1,6 +1,6 @@
 # CS 294-92: Analysis of Boolean Functions (Spring 2023)
 
-Description:
+## Description:
 
 Boolean functions are central objects of study in theoretical computer science and combinatorics. Analysis of Boolean functions, and in particular Fourier analysis, has been a successful tool in the areas of circuit lower bounds, hardness of approximation, social choice, threshold phenomena, pseudo-randomness, property testing, learning theory, cryptography, quantum computing, query complexity, and others.
 
@@ -10,13 +10,13 @@ We will study these foundational concepts of Boolean function and their applicat
 
 Undergraduate students who wish to take this class in Spring 2023 should fill out the following [Google Form](https://forms.gle/YkQMUBa3wj5t1okj9).
 
-Textbook:
+**Textbook:**
 
 The course will be mainly based on the wonderful book by Ryan O'Donnell. The book is available for free download via this [link](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf), or available for purchase on Amazon.
 
 In addition, we will highlight some recent exciting results that are not covered in the book.
 
-General Information:
+## General Information:
 
 Semester: Spring 2023
 
@@ -32,7 +32,7 @@ Office Hours: Monday 11 AM - 12 PM, 634 Soda Hall
 
 Grading: Homework - 40% (4 assignments), Lecture Scribe - 10%, Final Project & Presentation - 50%.
 
-Problem Sets:
+## Problem Sets:
 
 - [Homework 1](https://drive.google.com/file/d/1Txq2B_RHASu2-EJ3LsWfESVVBfzSI6Y2/view?usp=sharing) \- Due Monday, Feb 6.
 
@@ -41,13 +41,14 @@ Problem Sets:
 - [Homework 3](https://drive.google.com/file/d/1G1udr2Pn7vzfSF3oXYuHaz5JICDZyiMa/view?usp=share_link) \- Due Friday, Mar 17.
 
 - [Homework 4](https://drive.google.com/file/d/1q0HvaCXkuvegWFQDepk8msUEaX3lmUBg/view?usp=share_link) \- Due Wednesday, Apr 19.
+
 A [link](https://drive.google.com/drive/folders/1-_yaLlEaVoJkon430DLCtxbKCeId_bX1?usp=sharing) to Google Drive's with all PSets and lecture notes for this semester (Spring 2023).
 
 Discussions on [Ed](https://edstem.org/us/courses/35323/discussion/)
 
 HW submissions on [Gradescope](https://www.gradescope.com/courses/496193)
 
-Lectures Schedule:
+## Lectures Schedule:
 
 For each lecture - please take a look at the relevant chapters in O'Donnell's book & additional resources  & lecture notes.
 
@@ -109,7 +110,7 @@ For each lecture - please take a look at the relevant chapters in O'Donnell's bo
 28. Apr 30 - Presentations # 2
 RRR Week: More Presentations
 
-Resources and Other Courses:
+## Resources and Other Courses:
 
 [Analysis and TCS: new frontiers -- Simons Institute program -- Summer 2023](https://simons.berkeley.edu/programs/analysis-tcs-new-frontiers)
 
@@ -137,7 +138,7 @@ Videos about Fourier concentration and random restriction-based PRGs:
 
 [Fourier tails for Boolean functions and their applications](https://www.youtube.com/watch?v=FmisseepEys)
 
-Other Courses:
+### Other Courses:
 
 [Dor Minzer - MIT](https://sites.google.com/view/dorminzer/teaching?authuser=0)(2021)
 
