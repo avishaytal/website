@@ -996,13 +996,6 @@ ul li, ol li {
     padding-left: 0.5rem;
 }
 
-ul li::before {
-    content: '▸';
-    color: var(--accent-color);
-    font-weight: bold;
-    position: absolute;
-    left: -1rem;
-}
 
 /* Enhanced Buttons */
 .btn {
