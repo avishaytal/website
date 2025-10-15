@@ -12,23 +12,23 @@ The course will be mainly based on the wonderful [book](http://analysisofboolean
 
 In addition, we will highlight some recent exciting results that are not covered in the book.
 
-**General Information:**
+## General Information:
 
-**Semester:**Spring 2020
+**Semester:** Spring 2020
 
-**Time and Place:**Tuesday, Thursday 5:00-6:30 PM -- 310 Soda Hall
+**Time and Place:** Tuesday, Thursday 5:00-6:30 PM -- 310 Soda Hall
 
-**Instructor:**[Avishay Tal](http://www.avishaytal.org), Soda 635, atal "at" berkeley.edu
+**Instructor:** [Avishay Tal](http://www.avishaytal.org), Soda 635, atal "at" berkeley.edu
 
-**Office Hours:**Monday 1:30-3:30 PM
+**Office Hours:** Monday 1:30-3:30 PM
 
-**TA:**[Orr Paradise](http://people.eecs.berkeley.edu/~orrp/), Soda 626, orrp "at" eecs.berkeley.edu
+**TA:** [Orr Paradise](http://people.eecs.berkeley.edu/~orrp/), Soda 626, orrp "at" eecs.berkeley.edu
 
-**Office Hours:**Wednesday 2:30-3:30 PM (or fix an appointment by email). Please send questions/topics in advance.
+**Office Hours:** Wednesday 2:30-3:30 PM (or fix an appointment by email). Please send questions/topics in advance.
 
-**Grading:**Homeworks - 40% (4 assignments), Participation in class - 10%, Final Project & Presentation - 50%. Scribe - an exempt from one problem set and 10%.
+**Grading:** Homeworks - 40% (4 assignments), Participation in class - 10%, Final Project & Presentation - 50%. Scribe - an exempt from one problem set and 10%.
 
-**Problem Sets:**
+## Problem Sets:
 
 - [Homework 1](https://drive.google.com/open?id=1bb_sOPWWwCsDsT9pmGBlji5hDFZ_QB2q) \- Due Monday, Feb 10.
 
@@ -39,9 +39,9 @@ In addition, we will highlight some recent exciting results that are not covered
 - [Homework 4](https://drive.google.com/open?id=1L2huhm3Yp1HX8VwY_HI9YzRakRkI1gEd) \- Due Tuesday, May 5.
 Discussions:[Piazza](https://piazza.com/class/k5swc8w6mn82f)
 
-HW submissions:[Gradescope](https://www.gradescope.com/courses/85615)
+HW submissions: [Gradescope](https://www.gradescope.com/courses/85615)
 
-**Topics (not necessarily in that order):**
+## Topics (not necessarily in that order):
 
 **Property Testing:**
 
@@ -103,7 +103,7 @@ HW submissions:[Gradescope](https://www.gradescope.com/courses/85615)
 
 \- The polynomial method for quantum lower bounds \[Beals-Buhrman-Cleve-Mosca-de Wolf\]
 
-**Lectures:**
+## Lectures:
 
 For each lecture - see the relevant chapters in O'Donnell's book + additional resources + lecture notes.
 
@@ -164,7 +164,7 @@ For each lecture - see the relevant chapters in O'Donnell's book + additional re
 28. Apr 30 - Presentations # 4
 Additional note: [FKN's Proof](https://drive.google.com/open?id=1gqqHv6iTVNYuvWA_9fr43796gjejN8Ul) (a new version).
 
-**Resources and Other Courses:**
+## Resources and Other Courses:
 
 Videos about Fourier concentration and random restriction based PRGs:
 
