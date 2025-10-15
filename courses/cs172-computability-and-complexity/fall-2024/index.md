@@ -33,9 +33,9 @@ Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 
 [Gradescope](https://www.gradescope.com/courses/859783/)
 
-## [Course Policies & Information](/cs172-Fall24//course-policies-and-information-fall-2024)
+## [Course Policies & Information](/cs172-Fall24//course-policies)
 
-## [Lecture Schedule](/cs172-Fall24//lecture-schedule-fall-2024)
+## [Lecture Schedule](/cs172-Fall24//lecture-schedule)
 
 ## [Homeworks](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
 
