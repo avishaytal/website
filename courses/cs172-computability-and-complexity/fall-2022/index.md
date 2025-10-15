@@ -1,24 +1,24 @@
-## **CS 172 Computability and Complexity**
+# **CS 172 Computability and Complexity (Fall 2022)**
 
-## **Fall 2022**
+### **Course Staff**
 
-**Course Staff**
-
-**Instructor:**[Avishay Tal](/avishay-tal/) (_atal "at" berkeley.edu_)
+**Instructor:** [Avishay Tal](/avishay-tal/) (_atal "at" berkeley.edu_)
 
 **Lectures:** Tue/Thu 2:00-3:30 PM, **Soda 306****Office Hours:** Tue 3:30-4:30 PM, **Soda 306**. Fri 10-11 on Zoom (link on Ed)
 
-**GSI:**[Siqi Liu](https://siqi-l.github.io) ( _sliu18__"at" berkeley.edu_)
+**GSI:** [Siqi Liu](https://siqi-l.github.io) ( _sliu18__"at" berkeley.edu_)
 
-**Discussion****Sections:**Wed5-6 PM (**Soda****306**), Fri10-11AM (**Soda****310**)
+**Discussion Sections:** Wed5-6 PM (**Soda****306**), Fri10-11AM (**Soda****310**)
 
-**Office Hours:**Tue5-6 PM (**Soda****326**) Thu5-6on Zoom (link on Ed)
+**Office Hours:** Tue5-6 PM (**Soda****326**) Thu5-6on Zoom (link on Ed)
 
-**Tutor:**Clara Mohri ( _cmohri__"at" berkeley.edu_)
+**Tutor:** Clara Mohri ( _cmohri__"at" berkeley.edu_)
 
-**HW Party/Office Hours:**Wed 10-11 AM (**Soda 310**), Wed 2-3 PM (Wozniak Lounge, **Soda 430**)
+**HW Party/Office Hours:** Wed 10-11 AM (**Soda 310**), Wed 2-3 PM (Wozniak Lounge, **Soda 430**)
 
-**Reader:**Dasheng Bi ( _dbi__"at" berkeley.edu_)
+**Reader:** Dasheng Bi ( _dbi__"at" berkeley.edu_)
+
+### Linkage
 
 **Ed****Discussions**
 
@@ -28,11 +28,11 @@
 
 [https://www.gradescope.com/courses/427330](https://www.gradescope.com/courses/427330)
 
-[**Course Policies & Information**](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022)
+## [**Course Policies & Information**](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022)
 
-[**Lecture Schedule**](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022)
+## [**Lecture Schedule**](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022)
 
-[**Homeworks**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**(**[**link**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**to HW sources)**
+## [**Homeworks**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**(**[**link**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**to HW sources)**
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1GVI-YqeiF0mJkVhEQUPfc2yjxK7dIMNm/view?usp=sharing)\- Released on Aug26, Due Sep2
 
@@ -55,7 +55,8 @@
 - Homework 10 - [PDF](https://drive.google.com/file/d/1HeLhpIIvUaPBLycwNQ4gyO0MsvXl8F5-/view?usp=share_link) \- Released on Nov 16, Not for Submission.
 
 - Homework 11 - [PDF](https://drive.google.com/file/d/1e5nS_tmm2h6Iy-jf29QBfccFS0Fzo-9w/view?usp=share_link) \- Released on Nov 28. Not for Submission.
-**Useful Resources:**
+
+## **Useful Resources:**
 
 [Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
 
@@ -63,6 +64,6 @@
 
 [Finite State Machine Designer](https://madebyevan.com/fsm/)
 
-[Course Website - Spring 2022](/cs-172-computability-and-complexity/)
+[Course Website - Spring 2022](../)
 
 [Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
