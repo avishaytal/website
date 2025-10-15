@@ -105,9 +105,10 @@ RRR Week: More Presentations
 
 ## Resources and Other Courses:
 
-- [Spring 2020 version of this course](/cs-294-92-analysis-of-boolean-functions-spring-2020/)
+[Spring 2020 version of this course](../spring-2020/)
 
-- [Spring 2023 version of this course](/cs294-analysis-of-boolean-functions/)
+[Spring 2023 version of this course](../spring-2023/)
+
 [Analysis and TCS: new frontiers -- Simons Institute program -- Summer 2023](https://simons.berkeley.edu/programs/analysis-tcs-new-frontiers)
 
 [Open Problems by Ryan O'Donnell](https://arxiv.org/abs/1204.6447) (2012)
