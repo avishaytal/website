@@ -32,7 +32,7 @@
 
 **[Gradescope](https://www.gradescope.com/courses/1110614)**
 
-**[Course's Policies & Information](/cs172-Fall25/course-policies-and-information-fall-2025/)**
+**[Course's Policies & Information](./course-policies)**
 
 **[Lecture Schedule](https://drive.google.com/open?id=1u7MJUPbMGMED6z1xUB49WxcO42fR7kJuD9HeJRzR0ng)**
 
