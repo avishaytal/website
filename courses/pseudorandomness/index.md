@@ -1,6 +1,6 @@
 # **CS 294-202 Pseudorandomness**
 
-**Course Description:**
+## Course Description:
 
 Randomized algorithms give a broad and rich algorithmic toolkit (e.g., sampling, Monte Carlo methods). Randomness is an essential resource in distributed computing, cryptography, and interactive proofs. In this course, we would explore the role of randomness in computation: Can we derandomize algorithms without changing their time or space complexity? Can we "purify" randomness from a weak source of randomness?
 
@@ -8,26 +8,27 @@ Pseudo-randomness is the property of "appearing random" while having little or n
 
 Undergraduate students who wish to take this class should fill out the following [Google Form](https://docs.google.com/forms/d/1O-O7mAX8B86BW3_BntKQSofifxKp1zN1K8sP2CyIbmo/edit).
 
-**General Information:**
+## General Information:
 
-**Time and Place:**Tuesday, Thursday 3:30-5:00 PM, Soda 405
+**Time and Place:** Tuesday, Thursday 3:30-5:00 PM, Soda 405
 
 **Office Hours:** Monday 3:00-4:00 PM (via Zoom).
 
-**Instructor:**[Avishay Tal](http://www.avishaytal.org/), atal "at" berkeley.edu
+**Instructor:** [Avishay Tal](http://www.avishaytal.org/), atal "at" berkeley.edu
 
-**TA:**[Kewen Wu](https://shlw.github.io), shlw\_kevin \[at\] hotmail \[dot\] com
+**TA:** [Kewen Wu](https://shlw.github.io), shlw\_kevin \[at\] hotmail \[dot\] com
 
-**Grading:**Homeworks - 40% (4 assignments), Final Project & Presentation - 50%, Scribes - 10%.
+**Grading:** Homeworks - 40% (4 assignments), Final Project & Presentation - 50%, Scribes - 10%.
 
 **Prereqs:** CS170 or equivalent is required.
 
-[**Gradescope**](https://www.gradescope.com/courses/310808)[**Piazza**](http://piazza.com/berkeley/fall2021/cs294202)
+[**Gradescope**](https://www.gradescope.com/courses/310808)
 
-**Textbook:**
+[**Piazza**](http://piazza.com/berkeley/fall2021/cs294202)
 
-- Salil Vadhan - [Pseudorandomness](https://people.seas.harvard.edu/~salil/pseudorandomness/)
-**Problem Sets:**
+**Textbook:** - Salil Vadhan - [Pseudorandomness](https://people.seas.harvard.edu/~salil/pseudorandomness/)
+
+## Problem Sets:
 
 - [Homework 1](https://drive.google.com/open?id=1hWKWDmRkJJia3IJtIk6KL7TtoxcKmIsk) \- Due Monday, Sep 20.
 
@@ -36,7 +37,8 @@ Undergraduate students who wish to take this class should fill out the following
 - [Homework 3](https://drive.google.com/open?id=1fEZuPwn8l5YjafzLJ5_m9FlYhcAsJrUw) \- Due Thursday, Oct 21.
 
 - [Homework 4](https://drive.google.com/open?id=1dg-36TBTuEr4NSfberBIsKZL44GF-yq6) \- Due Thursday, Nov 18.
-**Topics:**
+
+## Topics:
 
 - k-wise Independence
 
@@ -53,7 +55,8 @@ Undergraduate students who wish to take this class should fill out the following
 - Connections between all the above
 
 - Derandomization of Small-Space Computation
-**Lectures****:**
+
+## Lectures:
 
 01. Introduction + derandomizing an approximation algorithm Max-Cut [Lecture note](https://drive.google.com/file/d/1AylPHRG8TgqdpkJz_WMSEEyLG0YMu9KW/view?usp=sharing)
 
@@ -103,7 +106,8 @@ Undergraduate students who wish to take this class should fill out the following
 23. Cheng-Hoza: Hitting Sets Give Two-Sided Derandomization of Small Space [Lecture note](https://drive.google.com/file/d/13KFoyY6D57SkDWlo0GHgWe14kkL06Z5i/view?usp=sharing)
 
 24. Fractional PRGs and Polarizing Random Walks [Lecture note](https://drive.google.com/file/d/11GODwOXkJeT03DYV6UNja4E0Cdoyufxh/view?usp=sharing)
-**Student Final Projects****:**
+
+## Student Final Projects:
 
 - [Survey of Interlacing Families for Bipartite Ramanujan Graphs](https://drive.google.com/file/d/1C9nJtrFQsuKts0K4aE9I2HdF8k1AcG8a/view?usp=sharing) byAaron (Louie) Putterman and Saachi Mutreja
 
@@ -122,7 +126,8 @@ Undergraduate students who wish to take this class should fill out the following
 - [PRGs for Monotone Read-Once Branching Programs](https://drive.google.com/file/d/1MPlKxIKHh9UctYbaUXqJ_f1aDiF5Nig1/view?usp=sharing) by Zoë Bell and Malvika Raj
 
 - [Computational Extractors & Applications](https://drive.google.com/file/d/1cpdNbCdVuqExw4WFV-hxF6FAQcY8AMum/view?usp=sharing) by Jialin Li and Dhanya Jayagopal
-**Additional Reading****:**
+
+## Additional Reading:
 
 - [Analysis of Boolean Functions](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf) by [Ryan O'Donnell](https://www.cs.cmu.edu/~odonnell/).
 
