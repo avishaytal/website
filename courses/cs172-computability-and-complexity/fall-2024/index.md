@@ -1,8 +1,7 @@
-## CS 172 Computability and Complexity
+## CS 172 Computability and Complexity (Fall 2024)
 
-## Fall 2024
 
-Course Staff
+### Course Staff
 
 Instructor: [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
 
@@ -28,19 +27,21 @@ HW Parties: Mon 4-5p Fri 3-4p (Wozniak Lounge - Soda 4th Floor)
 
 Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 
+### Linkage
+
 [Ed Discussions](https://edstem.org/us/courses/65210)
 
 [Gradescope](https://www.gradescope.com/courses/859783/)
 
-[Course Policies & Information](/cs172-Fall24//course-policies-and-information-fall-2024)
+## [Course Policies & Information](/cs172-Fall24//course-policies-and-information-fall-2024)
 
-[Lecture Schedule](/cs172-Fall24//lecture-schedule-fall-2024)
+## [Lecture Schedule](/cs172-Fall24//lecture-schedule-fall-2024)
 
-[Homeworks](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
+## [Homeworks](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1W2bkdRWcnmr4WiARwvhgKAYReb5ow5no/view?usp=share_link) \- Released Sep 3, Due Sep 9
 
-- Homework 2 \- [PDF](https://drive.google.com/file/d/1x-XFIE5WQ_EMz2ngB_UXtdzJ-vwHDPRi/view?usp=share_link) \- Released Sep 9, Due Sep 16
+- Homework 2 - [PDF](https://drive.google.com/file/d/1x-XFIE5WQ_EMz2ngB_UXtdzJ-vwHDPRi/view?usp=share_link) \- Released Sep 9, Due Sep 16
 
 - Homework 3 - [PDF](https://drive.google.com/file/d/1ukrpV4oAl2VrWxMXHs6bqcCHqC1PpGXT/view?usp=share_link) \- Released Sep 13, Due Sep 20
 
@@ -57,7 +58,8 @@ Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 - Homework 9 - [PDF](https://drive.google.com/file/d/1KgIzhsfW-piHM3ntNkD2UPm5tALHCEsG/view?usp=share_link) \- Released Nov 8, Due Nov 18
 
 - Homework 10 - [PDF](https://drive.google.com/file/d/1raqSMq_4Ws1ywPyqmLOrjR8v_86XuaWj/view?usp=share_link) \- Released Nov 18, Due Nov 25
-Useful Resources:
+  
+## Useful Resources:
 
 [Theory of Computation Online Lectures](https://hackmd.io/2AqODdrtTOuj6fb5uMDZYw?view)
 
@@ -65,8 +67,8 @@ Useful Resources:
 
 [Finite State Machine Designer](https://madebyevan.com/fsm/)
 
-[Course Website - Fall 2022](/cs-172-computability-and-complexity-fall-2022/)
+[Course Website - Fall 2022](../fall-2022/)
 
-[Course Website - Spring 2022](/cs-172-computability-and-complexity/)
+[Course Website - Spring 2022](../)
 
 [Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
