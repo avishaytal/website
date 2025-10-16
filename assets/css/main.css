@@ -42,6 +42,7 @@ body {
     background-attachment: fixed;
     font-size: 16px;
     min-height: 100vh;
+    scroll-padding-top: 80px; /* Account for sticky header */
 }
 
 .container {
