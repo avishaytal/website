@@ -1,4 +1,4 @@
-## CS 172 Computability and Complexity (Fall 2024)
+# **CS 172 Computability and Complexity (Fall 2024)**
 
 
 ### Course Staff

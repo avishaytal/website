@@ -1,4 +1,4 @@
-# CS 294-92: Analysis of Boolean Functions (Spring 2025)
+# **CS 294-92: Analysis of Boolean Functions (Spring 2025)**
 
 Description:
 

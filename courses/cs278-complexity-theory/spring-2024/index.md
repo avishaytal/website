@@ -1,4 +1,4 @@
-# CS 278 Computational Complexity Theory (Spring 2024)
+# **CS 278 Computational Complexity Theory (Spring 2024)**
 
 ## Course Description
 

@@ -1,4 +1,4 @@
-# CS 172 Computability and Complexity (Fall 2025)
+# **CS 172 Computability and Complexity (Fall 2025)**
 
 ## Course Staff
 
