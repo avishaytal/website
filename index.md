@@ -51,46 +51,62 @@ E-mail: atal "at" berkeley.edu
 
 ## Events
 
-Workshop on [Derandomizing Space-Bounded Computation](./workshops/stoc-2020/) (Part of STOC 2020)
-
-[Advances in Boolean Function Analysis Lecture Series](https://simons.berkeley.edu/events/boolean) @ The Simons Institute (Summer 2020)
 
 Program on [Analysis and TCS : New Frontiers](https://simons.berkeley.edu/programs/TCS2023) @ The Simons Institute (Summer 2023) -- and its [reunion](https://simons.berkeley.edu/workshops/analysis-tcs-reunion) (July 2024)
 
 
+[Advances in Boolean Function Analysis Lecture Series](https://simons.berkeley.edu/events/boolean) @ The Simons Institute (Summer 2020)
+
+Workshop on [Derandomizing Space-Bounded Computation](./workshops/stoc-2020/) (Part of STOC 2020)
+
+
 ## Teaching {#teaching}
 
-CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-functions/spring-2020/) \- Spring 2020
 
-CS 170 - [Efficient Algorithms and Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/fa20/) \- Fall 2020
 
-CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/) \- Spring 2021
-
-CS 294-202 - [Pseudorandomness](./courses/pseudorandomness/) \- Fall 2021
-
-CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/) \- Spring 2022
-
-CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2022/) \- Fall 2022
-
-CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-functions/spring-2023/) \- Spring 2023
-
-CS 70 - [Discrete Mathematics and Probability Theory](https://www.eecs70.org/) \- Fall 2023
-
-CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/spring-2024/) \- Spring 2024
-
-CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2024/) \- Fall 2024
-
-CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-functions/spring-2025/) \- Spring 2025
 
 CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2025/) \- Fall 2025
 
+CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-functions/spring-2025/) \- Spring 2025
+
+CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2024/) \- Fall 2024
+
+
+CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/spring-2024/) \- Spring 2024
+
+
+CS 70 - [Discrete Mathematics and Probability Theory](https://www.eecs70.org/) \- Fall 2023
+
+CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-functions/spring-2023/) \- Spring 2023
+
+CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2022/) \- Fall 2022
+
+CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/) \- Spring 2022
+
+CS 294-202 - [Pseudorandomness](./courses/pseudorandomness/) \- Fall 2021
+
+CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/) \- Spring 2021
+
+CS 170 - [Efficient Algorithms and Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/fa20/) \- Fall 2020
+
+CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-functions/spring-2020/) \- Spring 2020
 
 ## Program Committees
 
-[FOCS 2019](http://focs2019.cs.jhu.edu/),  [SODA 2020](https://www.siam.org/conferences/cm/conference/soda20),  [CCC 2020](https://www.computationalcomplexity.org/Archive/2020/cfp.php),  [RANDOM 2020](https://randomconference.com/random-2020-home/),  [ITCS 2021](http://itcs-conf.org/),  [STOC 2021](http://acm-stoc.org/stoc2021/), [ITCS 2023](http://itcs-conf.org/itcs23/itcs23-cfp.html), [STOC 2024](http://acm-stoc.org/stoc2024/), [ITCS 2025](http://itcs-conf.org/itcs25/itcs25-cfp.html), [CCC 2025](https://computationalcomplexity.org/Archive/2025/cfp.html), [FOCS 2025](https://focs.computer.org/2025/)
+[FOCS 2019](http://focs2019.cs.jhu.edu/),  
+[SODA 2020](https://www.siam.org/conferences/cm/conference/soda20),  
+[CCC 2020](https://www.computationalcomplexity.org/Archive/2020/cfp.php),  
+[RANDOM 2020](https://randomconference.com/random-2020-home/),  
+[ITCS 2021](http://itcs-conf.org/),  
+[STOC 2021](http://acm-stoc.org/stoc2021/), 
+[ITCS 2023](http://itcs-conf.org/itcs23/itcs23-cfp.html), 
+[STOC 2024](http://acm-stoc.org/stoc2024/), 
+[ITCS 2025](http://itcs-conf.org/itcs25/itcs25-cfp.html), 
+[CCC 2025](https://computationalcomplexity.org/Archive/2025/cfp.html), 
+[FOCS 2025](https://focs.computer.org/2025/)
 
-
-## Group Information {#students}
+{#students}
+## Group Information 
 
 ### Current Ph.D. Students
 
