@@ -1,5 +1,7 @@
 # **CS 294-92: Analysis of Boolean Functions (Spring 2020)**
 
+## Description:
+
 Boolean functions are central objects of study in theoretical computer science and combinatorics. Analysis of Boolean functions, and in particular Fourier analysis, has been a successful tool in the areas of circuit lower bounds, hardness of approximation, social choice, threshold phenomena, pseudo-randomness, property testing, learning theory, cryptography, quantum computing, query complexity, and others.
 
 These applications are derived by understanding fundamental beautiful concepts in the study of Boolean functions, such as influence, noise-sensitivity, approximation by polynomials, hyper-contractivity, and the invariance-principle (connecting the discrete Boolean domain with the continuous Gaussian domain).

@@ -1,4 +1,4 @@
-# **CS 172 Computability and Complexity**
+# **CS 172 Computability and Complexity (Spring 2022)**
 
 ## **Spring 2022**
 
