@@ -33,7 +33,7 @@ Homework should be either typed (e.g., in Word or preferably in LaTeX) or writte
 
 **Textbook**
 
-The required textbook for the course is "Introduction to the Theory of Computation" by Michael Sipser. Most readings will be from the textbook, and the relevant chapters for each lecture will be mentioned on the [Lecture Schedule](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022) page.
+The required textbook for the course is "Introduction to the Theory of Computation" by Michael Sipser. Most readings will be from the textbook, and the relevant chapters for each lecture will be mentioned on the [Lecture Schedule](./lecture-schedule.md) page.
 
 **Office Hours**
 
