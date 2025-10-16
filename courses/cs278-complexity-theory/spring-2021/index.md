@@ -90,7 +90,9 @@ For those of you that want a refresher on the general setting, or those who have
 
 **The PCP theorem and its connections to Hardness of Approximation (Chapter 11 AB)**
 
-**Communication Complexity -**KW Games, Lower Bounds on Randomized Communication Complexity
+**Communication Complexity**
+- KW Games
+- Lower Bounds on Randomized Communication Complexity
 
 **Hardness within P**
 
