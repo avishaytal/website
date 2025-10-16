@@ -8,19 +8,19 @@ Among the highlights, we will discuss Randomized Algorithms, Bounded-Space Algor
 
 ## General Information
 
-Time and Place: Tuesday, Thursday 2:00 - 3:30 PM, Soda 405.
+**Time and Place:** Tuesday, Thursday 2:00 - 3:30 PM, Soda 405.
 
-Instructor: [Avishay Tal](http://www.avishaytal.org/), email: atal "at" berkeley.edu, Office Hours: Thursday 3:30-4:30 PM.
+**Instructor:** [Avishay Tal](http://www.avishaytal.org/), email: atal "at" berkeley.edu, Office Hours: Thursday 3:30-4:30 PM.
 
-TA: Hongxun Wu, email: wuhx"at" berkeley.edu, Office Hours: Thursday 9:00 - 10:00 AM at Soda 326.
+**TA:** Hongxun Wu, email: wuhx"at" berkeley.edu, Office Hours: Thursday 9:00 - 10:00 AM at Soda 326.
 
-Grading: Homework assignments - 50% (5 assignments), scribe - mandatory + replaces the lowest-grade hw assignment, Final Project & Presentation - 50%.
+**Grading:** Homework assignments - 50% (5 assignments), scribe - mandatory + replaces the lowest-grade hw assignment, Final Project & Presentation - 50%.
 
-Prerequisite: CS170 or equivalent is required. CS172 or equivalent is recommended.
+**Prerequisite:** CS170 or equivalent is required. CS172 or equivalent is recommended.
 
-Pre-Reading: For those of you who want a refresher on the general setting, or those who haven't taken 172, please see Chapter 3 in Sipser's book ("Introduction to the Theory Of Computation" by Michael Sipser) or Chapters 1 & 2 [Arora-Barak.](http://theory.cs.princeton.edu/complexity/)
+**Pre-Reading:** For those of you who want a refresher on the general setting, or those who haven't taken 172, please see Chapter 3 in Sipser's book ("Introduction to the Theory Of Computation" by Michael Sipser) or Chapters 1 & 2 [Arora-Barak.](http://theory.cs.princeton.edu/complexity/)
 
-Textbooks & Lecture Notes:
+**Textbooks & Lecture Notes:**
 
 - Sanjeev Arora, Boaz Barak - [Computational Complexity, A Modern Approach](http://theory.cs.princeton.edu/complexity/) + [Web Addendum](https://www.cs.utexas.edu/~danama/courses/adv-comp20/accnexp.pdf)
 
@@ -30,7 +30,7 @@ Textbooks & Lecture Notes:
 
 - Gil Cohen - [A Taste of Circuit Complexity Pivoted at NEXP not in ACC (and more)](http://eccc.hpi-web.de/resources/pdf/cohen.pdf)
 
-## [Problem Sets](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=sharing)
+## Problem Sets
 
 - [HW1](https://drive.google.com/file/d/1yNeSPiWIEuEtMyXHHHvMAx1ABNj9tH7L/view?usp=sharing) \-\- Due Feb 12
 
@@ -40,7 +40,7 @@ Textbooks & Lecture Notes:
 
 - [HW4](https://drive.google.com/file/d/12mM8QpJmL8Or6HlSRBlS9ZWlUH50kIxf/view?usp=share_link) \-\- Due Apr 19
 
-[Lecture Notes](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=share_link)
+[Google Drive with Problem Sets and Lecture Notes](https://drive.google.com/drive/folders/1ip5SBq7pqWIdOWK3o3QzPDG7Ryz9v4p9?usp=share_link)
 
 ## Topics
 
