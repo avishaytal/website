@@ -33,9 +33,9 @@ title: Home
 
 ## Contact Information {#contact}
 
-******Office:****** 635 Soda Hall, Department of Electrical Engineering and Computer Sciences, UC Berkeley. Berkeley, CA, 94720
+**Office:** 635 Soda Hall, Department of Electrical Engineering and Computer Sciences, UC Berkeley. Berkeley, CA, 94720
 
-******E-mail:****** atal "at" berkeley.edu
+**E-mail:** atal "at" berkeley.edu
 
 ## Events
 
