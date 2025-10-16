@@ -91,6 +91,7 @@ Undergraduate students who wish to take this class should fill out the following
 16. Trevisan's Extractor [Lecture note](https://drive.google.com/file/d/1b1jJCCeTNTx0rATUAjD35T6i5uI-8kXi/view?usp=sharing)
 
 17. Two-Source Extractor [Lecture note](https://drive.google.com/file/d/1MxNthKi-Hi9p0OWoxBZUg4uqkT4-RAY3/view?usp=sharing)
+
 **Derandomizing Small-Space Computation:**
 
 18. Nisan's PRG [Lecture note](https://drive.google.com/file/d/1DXdmCAf6rqARVFwFx4h6kpI1Mk2a4iJN/view?usp=sharing)
@@ -109,7 +110,7 @@ Undergraduate students who wish to take this class should fill out the following
 
 ## Student Final Projects:
 
-- [Survey of Interlacing Families for Bipartite Ramanujan Graphs](https://drive.google.com/file/d/1C9nJtrFQsuKts0K4aE9I2HdF8k1AcG8a/view?usp=sharing) byAaron (Louie) Putterman and Saachi Mutreja
+- [Survey of Interlacing Families for Bipartite Ramanujan Graphs](https://drive.google.com/file/d/1C9nJtrFQsuKts0K4aE9I2HdF8k1AcG8a/view?usp=sharing) by Aaron (Louie) Putterman and Saachi Mutreja
 
 - [Pseudorandom Walks: 2006 and Now](https://drive.google.com/file/d/16HQlaXgO6o2WG4JoHIpERCHrv50AxzxM/view?usp=sharing) by Nathaniel Young and Vint Lee
 
