@@ -64,7 +64,7 @@ CS 172 - [Computability and Complexity](./courses/cs172-computability-and-comple
 
 CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/) \- Spring 2022
 
-CS 294-202 - [Pseudorandomness](./courses/pseudorandomness/) \- Fall 2021
+CS 294-202 - [Pseudorandomness](./courses/pseudorandomness/fall-2021/) \- Fall 2021
 
 CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/) \- Spring 2021
 
