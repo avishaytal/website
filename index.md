@@ -124,7 +124,7 @@ CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-
 I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the guidance of [Ran Raz](http://www.wisdom.weizmann.ac.il/~ranraz/). Prior to that, I was an M.Sc. student at the Technion under the guidance of [Amir Shpilka](http://www.cs.tau.ac.il/~shpilka/) until 2012. I held postdoctoral appointments at the [Institute for Advanced Study](https://www.ias.edu/) (hosted by [Avi Wigderson](https://www.math.ias.edu/avi/home)) from 2015 to 2017, [Simons Institute](https://simons.berkeley.edu/) (as part of the [Lower Bounds in Computational Complexity](https://simons.berkeley.edu/programs/complexity2018) program), and Stanford University (hosted by [Omer Reingold](http://omereingold.wordpress.com/)) from 2017 to 2019. I feel very fortunate to have had Amir, Ran, Avi, and Omer as my mentors. I joined the EECS department at UC Berkeley in 2019.
 
 ## Publications {#publications}
-
+{: reversed="reversed"}
 1. Quantum Computable One-Way Functions without One-Way Functions
 
      [PDF](https://arxiv.org/abs/2411.02554) joint with William Kretschmer and Luowen Qian
@@ -436,7 +436,5 @@ I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the gu
      [PDF](https://drive.google.com/open?id=16mFZro6N8VD_rwoZYWbHeB_ZuspLf5ZS) [Journal-version](https://drive.google.com/open?id=1eAO3u3BtxRtMcAm0GapJbx6NRDCUg8W6) [Slides](https://drive.google.com/open?id=1lZf2UermOAVsurgYqtzJxc64XFsCSJD3) [Amir@MSR](http://research.microsoft.com/apps/video/dl.aspx?id=145593) joint with Amir Shpilka.
 
     CCC, 2011. Combinatorica, 2014.
-
-     [\[Richard Lipton's Blog Post\]](https://rjlipton.wordpress.com/2010/11/19/is-complexity-theory-on-the-brink/) [\[2\]](https://rjlipton.wordpress.com/2011/01/05/fourier-complexity-of-cirtemmys-boolean-functions/)
-
-{: reversed="reversed"}
+    
+    [\[Richard Lipton's Blog Post\]](https://rjlipton.wordpress.com/2010/11/19/is-complexity-theory-on-the-brink/) [\[2\]](https://rjlipton.wordpress.com/2011/01/05/fourier-complexity-of-cirtemmys-boolean-functions/)
