@@ -71,9 +71,7 @@ CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-
 
 CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2024/) \- Fall 2024
 
-
 CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/spring-2024/) \- Spring 2024
-
 
 CS 70 - [Discrete Mathematics and Probability Theory](https://www.eecs70.org/) \- Fall 2023
 
@@ -105,8 +103,7 @@ CS 294-92 - [Analysis of Boolean Functions](./courses/cs294-analysis-of-boolean-
 [CCC 2025](https://computationalcomplexity.org/Archive/2025/cfp.html), 
 [FOCS 2025](https://focs.computer.org/2025/)
 
-{#students}
-## Group Information 
+## Group Information {#students}
 
 ### Current Ph.D. Students
 
