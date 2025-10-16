@@ -52,55 +52,41 @@ For those of you that want a refresher on the general setting, or those who have
 
 **Time-Complexity (Chapter 3 AB)**
 
-Hierarchy Theorems
-
-Barriers to diagonalization
+- Hierarchy Theorems
+- Barriers to diagonalization
 
 **Space-Complexity (Chapter 4 AB)**
 
-PSPACE, LogSPACE
-
-st-conn is NL complete
-
-Savitch’s Theorem (NSPACE\[s\] in DSPACE\[s^2\])
-
-Immerman-Szelepcsényi's Theorem (NSPACE is closed to complement)
+- PSPACE, LogSPACE
+- st-conn is NL complete
+- Savitch’s Theorem (NSPACE\[s\] in DSPACE\[s^2\])
+- Immerman-Szelepcsényi's Theorem (NSPACE is closed to complement)
 
 **Randomness in Computation (Chapters 5,7 AB)**
 
-Relation to the Polynomial Hierarchy
-
-Relation to Circuits
-
-Derandomization
+- Relation to the Polynomial Hierarchy
+- Relation to Circuits
+- Derandomization
 
 **Circuit Complexity (Chapters 6, 14, 23 AB)**
 
-The circuit complexity approach to P!=NP
-
-The Karp-Lipton Theorem
-
-Uncoditional lower bounds for restrictive circuit classes like bounded-depth circuits
-
-KW-Games
-
-NEXP not in ACC^0
-
-Barriers: Natural Proofs.
+- The circuit complexity approach to P!=NP
+- The Karp-Lipton Theorem
+- Uncoditional lower bounds for restrictive circuit classes like bounded-depth circuits
+- KW-Games
+- NEXP not in ACC^0
+- Barriers: Natural Proofs.
 
 **Hardness vs Randomness (Chapters 19, 20 AB)**
 
-Pseudorandom Generators from Hard functions
-
-Derandomization implies Circuit Lower Bounds
-
-Hardness Amplification
+- Pseudorandom Generators from Hard functions
+- Derandomization implies Circuit Lower Bounds
+- Hardness Amplification
 
 **Interactive Proofs (Chapter 8 AB)**
 
-Arthur-Merlin Protocols
-
-IP = PSPACE
+- Arthur-Merlin Protocols
+- IP = PSPACE
 
 **The PCP theorem and its connections to Hardness of Approximation (Chapter 11 AB)**
 
