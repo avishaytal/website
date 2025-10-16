@@ -12,48 +12,34 @@ title: Home
     </div>
 </div>
 
-## Main Research Interests {#research}
+### Main Research Interests {#research}
 
 - Computational Complexity,
-
 - Analysis of Boolean Functions,
-
 - Circuit and Formula Lower Bounds,
-
 - Query Complexity,
-
 - Pseudorandomness,
-
 - Computational Learning Theory,
-
 - Quantum Computing,
-
 - Combinatorics, and
-
 - Connections between Algorithms and Lower Bounds.
-
 
 ### Motivating questions that guide my research:
 
 - What is the power and limitations of parallel computation?
-
 - What is the role of randomness in computation?
-
 - What is the role of memory in learning?
-
 - For which tasks do quantum algorithms outperform classical algorithms?
 
 ## Contact Information {#contact}
 
-Office:635 Soda Hall, Department of Electrical Engineering and Computer Sciences, UC Berkeley. Berkeley, CA, 94720
+**Office:** 635 Soda Hall, Department of Electrical Engineering and Computer Sciences, UC Berkeley. Berkeley, CA, 94720
 
-E-mail: atal "at" berkeley.edu
+**E-mail:** atal "at" berkeley.edu
 
 ## Events
 
-
 Program on [Analysis and TCS : New Frontiers](https://simons.berkeley.edu/programs/TCS2023) @ The Simons Institute (Summer 2023) -- and its [reunion](https://simons.berkeley.edu/workshops/analysis-tcs-reunion) (July 2024)
-
 
 [Advances in Boolean Function Analysis Lecture Series](https://simons.berkeley.edu/events/boolean) @ The Simons Institute (Summer 2020)
 
@@ -61,9 +47,6 @@ Workshop on [Derandomizing Space-Bounded Computation](./workshops/stoc-2020/) (P
 
 
 ## Teaching {#teaching}
-
-
-
 
 CS 172 - [Computability and Complexity](./courses/cs172-computability-and-complexity/fall-2025/) \- Fall 2025
 
