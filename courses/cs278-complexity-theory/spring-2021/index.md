@@ -94,6 +94,7 @@ For those of you that want a refresher on the general setting, or those who have
 
 **Hardness within P**
 
+
 ## Resources
 
 [**Scribe Notes**](https://drive.google.com/open?id=1Yy1tb_Dj4g63LtnzK38pT0XYJiI-Vtxw)
