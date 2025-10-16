@@ -44,6 +44,10 @@ I received my Ph.D. in 2015 from the Weizmann Institute of Science, under the gu
 
 ## Events
 
+Program on [Pseudorandomness & High-Dimensional Expansion](https://simons.berkeley.edu/programs/pseudorandomness-high-dimensional-expansion) @ The Simons Institute (Fall 2026)
+
+[Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2026/) @ EPFL/ETH Zurich (January 25-30, 2026) 
+
 Program on [Analysis and TCS : New Frontiers](https://simons.berkeley.edu/programs/TCS2023) @ The Simons Institute (Summer 2023) -- and its [reunion](https://simons.berkeley.edu/workshops/analysis-tcs-reunion) (July 2024)
 
 [Advances in Boolean Function Analysis Lecture Series](https://simons.berkeley.edu/events/boolean) @ The Simons Institute (Summer 2020)
