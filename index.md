@@ -66,7 +66,7 @@ CS 172 - [Computability and Complexity](./courses/cs172-computability-and-comple
 
 CS 294-202 - [Pseudorandomness](./courses/pseudorandomness/fall-2021/) \- Fall 2021
 
-CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/) \- Spring 2021
+CS 278 - [Computational Complexity Theory](./courses/cs278-complexity-theory/spring-2021/) \- Spring 2021
 
 CS 170 - [Efficient Algorithms and Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/fa20/) \- Fall 2020
 
