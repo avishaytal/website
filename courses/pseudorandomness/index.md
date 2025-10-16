@@ -1,4 +1,4 @@
-# **CS 294-202 Pseudorandomness**
+# **CS 294-202 Pseudorandomness (Fall 2021)**
 
 ## Course Description:
 
