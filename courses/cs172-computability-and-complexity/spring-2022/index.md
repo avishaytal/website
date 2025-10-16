@@ -30,9 +30,9 @@
 
 [https://www.gradescope.com/courses/352772](https://www.gradescope.com/courses/352772)
 
-## [**Course Policies & Information**](/cs-172-computability-and-complexity/course-policies-and-information-spring-2022/)
+## [**Course Policies & Information**](./course-policies)
 
-## [**Lecture Schedule**](/cs-172-computability-and-complexity/lecture-schedule-spring-2022/)
+## [**Lecture Schedule**](./lecture-schedule)
 
 ## [**Homeworks**](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
 

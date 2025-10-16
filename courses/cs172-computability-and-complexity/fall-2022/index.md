@@ -66,6 +66,6 @@
 
 [Finite State Machine Designer](https://madebyevan.com/fsm/)
 
-[Course Website - Spring 2022](../)
+[Course Website - Spring 2022](../spring-2022)
 
 [Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)

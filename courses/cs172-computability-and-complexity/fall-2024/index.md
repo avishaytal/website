@@ -69,6 +69,6 @@ Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 
 [Course Website - Fall 2022](../fall-2022/)
 
-[Course Website - Spring 2022](../)
+[Course Website - Spring 2022](../spring-2022)
 
 [Course Website - Spring 2021](https://people.eecs.berkeley.edu/~sinclair/cs172/s21.html) (Prof. Alistair Sinclair)
