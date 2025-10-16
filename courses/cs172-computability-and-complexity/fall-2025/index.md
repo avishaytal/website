@@ -38,7 +38,7 @@
 
 ## Homeworks
   
-**[Google Drive](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)**
+[Google Drive Folder](https://drive.google.com/drive/folders/1nViHxVOdUs4v078r3fjuhjY5NxPuiYSU?usp=sharing)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1v62W_Q-pu8Dvk33WUXKlR2kpngTj5yV4/view?usp=share_link) \- Released Aug 30, Due Sep 8
 

@@ -1,6 +1,6 @@
-# **CS 294-92: Analysis of Boolean Functions (Spring 2020)**
+# **CS 294-92 Analysis of Boolean Functions (Spring 2020)**
 
-## Description:
+## Course Description
 
 Boolean functions are central objects of study in theoretical computer science and combinatorics. Analysis of Boolean functions, and in particular Fourier analysis, has been a successful tool in the areas of circuit lower bounds, hardness of approximation, social choice, threshold phenomena, pseudo-randomness, property testing, learning theory, cryptography, quantum computing, query complexity, and others.
 

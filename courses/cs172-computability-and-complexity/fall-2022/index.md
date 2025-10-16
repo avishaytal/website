@@ -30,11 +30,13 @@
 
 [https://www.gradescope.com/courses/427330](https://www.gradescope.com/courses/427330)
 
-## [**Course Policies & Information**](/cs-172-computability-and-complexity-fall-2022//course-policies-and-information-fall-2022)
+[**Course Policies & Information**](./course-policies)
 
-## [**Lecture Schedule**](/cs-172-computability-and-complexity-fall-2022//lecture-schedule-fall-2022)
+[**Lecture Schedule**](./lecture-schedule)
 
-## [**Homeworks**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**(**[**link**](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)**to HW sources)**
+## **Homeworks**
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1Dq6u9C2Pg7sl_RsW-fB4xaLAJLsRomNy?usp=sharing)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1GVI-YqeiF0mJkVhEQUPfc2yjxK7dIMNm/view?usp=sharing)\- Released on Aug26, Due Sep2
 

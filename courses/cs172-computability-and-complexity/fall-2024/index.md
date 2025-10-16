@@ -33,11 +33,13 @@ Reader: Aditya Tummala(adi.tummala "at" berkeley.edu)
 
 [Gradescope](https://www.gradescope.com/courses/859783/)
 
-## [Course Policies & Information](/cs172-Fall24//course-policies)
+[**Course Policies & Information**](./course-policies)
 
-## [Lecture Schedule](/cs172-Fall24//lecture-schedule)
+[**Lecture Schedule**](./lecture-schedule)
 
-## [Homeworks](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
+## Homeworks
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1xtwt_rXiIXB1H-HglyLlFYgIFWhgO8cx?usp=share_link)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1W2bkdRWcnmr4WiARwvhgKAYReb5ow5no/view?usp=share_link) \- Released Sep 3, Due Sep 9
 

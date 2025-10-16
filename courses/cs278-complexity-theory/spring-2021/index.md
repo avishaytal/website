@@ -1,6 +1,6 @@
 # **CS 278 Computational Complexity Theory (Spring 2021)** 
 
-## Course Description:
+## Course Description
 
 Computational Complexity studies the power and limitations of efficient computation. What can be computed with bounded resources such as time, memory, randomness, communication, and parallel cores? In this course, we will explore these beautiful questions. While most of them are widely open (e.g., Is verifying easier than proving? Is parallelism always helpful? Does randomness help in computation?), we will see many surprising connections between them. The course will be based on selected chapters from the book "[Computational Complexity](http://theory.cs.princeton.edu/complexity/)" by **Sanjeev Arora** and **Boaz Barak**.
 

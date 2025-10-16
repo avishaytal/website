@@ -1,7 +1,5 @@
 # **CS 172 Computability and Complexity (Spring 2022)**
 
-## **Spring 2022**
-
 ### Course Staff
 
 **Instructor:** [Avishay Tal](/avishay-tal/) (atal "at" berkeley.edu)
@@ -30,11 +28,13 @@
 
 [https://www.gradescope.com/courses/352772](https://www.gradescope.com/courses/352772)
 
-## [**Course Policies & Information**](./course-policies)
+[**Course Policies & Information**](./course-policies)
 
-## [**Lecture Schedule**](./lecture-schedule)
+[**Lecture Schedule**](./lecture-schedule)
 
-## [**Homeworks**](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
+## Homeworks
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1JygJdwiR2AyZg02A9Nz4LpspwOi0EYby?usp=sharing)
 
 - Homework 1 - [PDF](https://drive.google.com/file/d/1Ov3Q3bMaUj6Uz4Vw0QfRDSpGGRsCkTYy/view?usp=sharing), [TeX](https://drive.google.com/file/d/1V_VNLXW3U4X9H-Lh-Fwj_PhxDdS_Z7TQ/view?usp=sharing) \- Released Jan 21, Due Jan 28
 
